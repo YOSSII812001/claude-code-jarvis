@@ -1,20 +1,60 @@
 {
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  },
+  "model": "opus[1m]",
   "hooks": {
     "Stop": [
       {
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\path\\to\\claude-code-jarvis\\speak_jarvis.ps1\"",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\Users\<USERNAME>\.claude\speak_jarvis.ps1\"",
             "timeout": 30000
           },
           {
             "type": "command",
-            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\path\\to\\claude-code-jarvis\\notify_toast.ps1\"",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\Users\<USERNAME>\.claude\speak_zundamon.ps1\" -Debug",
+            "timeout": 30000
+          },
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\Users\<USERNAME>\.claude\notify_toast.ps1\"",
             "timeout": 10000
+          },
+          {
+            "type": "command",
+            "command": "powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\Users\<USERNAME>\.claude\confidence_gate_hook.ps1\"",
+            "timeout": 15000
           }
         ]
       }
     ]
-  }
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "input=$(cat); used=$(echo \"$input\" | jq -r '.context_window.used_percentage // empty'); remaining=$(echo \"$input\" | jq -r '.context_window.remaining_percentage // empty'); model=$(echo \"$input\" | jq -r '.model.display_name // empty'); if [ -n \"$used\" ] && [ -n \"$remaining\" ]; then printf \"コンテキスト使用率: %.1f%% (残り %.1f%%) | %s\" \"$used\" \"$remaining\" \"$model\"; else printf \"%s\" \"$model\"; fi"
+  },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true,
+    "playwright@claude-plugins-official": true,
+    "supabase@claude-plugins-official": true,
+    "vercel@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "codex@openai-codex": true,
+    "discord@claude-plugins-official": true
+  },
+  "extraKnownMarketplaces": {
+    "openai-codex": {
+      "source": {
+        "source": "github",
+        "repo": "openai/codex-plugin-cc"
+      }
+    }
+  },
+  "language": "Japanese",
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "high",
+  "voiceEnabled": true,
+  "showThinkingSummaries": true
 }

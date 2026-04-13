@@ -1,0 +1,5227 @@
+[
+  {
+    "surface": "abolish",
+    "pronunciation": "アボリッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "abortion",
+    "pronunciation": "アボーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "abrupt",
+    "pronunciation": "アブラプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "absurd",
+    "pronunciation": "アブサード",
+    "accent_type": 1
+  },
+  {
+    "surface": "abundance",
+    "pronunciation": "アバンダンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "accelerate",
+    "pronunciation": "アクセラレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "accessible",
+    "pronunciation": "アクセシブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "accommodate",
+    "pronunciation": "アコモデイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "accomplishment",
+    "pronunciation": "アコンプリッシュメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "accountable",
+    "pronunciation": "アカウンタブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "accumulate",
+    "pronunciation": "アキュムレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "accusation",
+    "pronunciation": "アキュゼイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "acknowledge",
+    "pronunciation": "アクノレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "acquisition",
+    "pronunciation": "アクイジション",
+    "accent_type": 1
+  },
+  {
+    "surface": "adjacent",
+    "pronunciation": "アジェイセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "administer",
+    "pronunciation": "アドミニスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "adolescence",
+    "pronunciation": "アドレセンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "adversary",
+    "pronunciation": "アドバーサリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "adverse",
+    "pronunciation": "アドバース",
+    "accent_type": 1
+  },
+  {
+    "surface": "advocate",
+    "pronunciation": "アドボケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "aesthetic",
+    "pronunciation": "エスセティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "affirmative",
+    "pronunciation": "アファーマティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "aggregate",
+    "pronunciation": "アグリゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "agitate",
+    "pronunciation": "アジテイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "albeit",
+    "pronunciation": "オールビーイット",
+    "accent_type": 1
+  },
+  {
+    "surface": "allegation",
+    "pronunciation": "アレゲイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "alleviate",
+    "pronunciation": "アリーヴィエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "allocate",
+    "pronunciation": "アロケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "allot",
+    "pronunciation": "アロット",
+    "accent_type": 1
+  },
+  {
+    "surface": "alteration",
+    "pronunciation": "オルタレイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "ambiguity",
+    "pronunciation": "アンビギュイティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ambiguous",
+    "pronunciation": "アンビギュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "ambivalent",
+    "pronunciation": "アンビバレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "amendment",
+    "pronunciation": "アメンドメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "ample",
+    "pronunciation": "アンプル",
+    "accent_type": 1
+  },
+  {
+    "surface": "analogy",
+    "pronunciation": "アナロジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "annex",
+    "pronunciation": "アネックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "anomaly",
+    "pronunciation": "アノマリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "anonymous",
+    "pronunciation": "アノニマス",
+    "accent_type": 1
+  },
+  {
+    "surface": "anthropology",
+    "pronunciation": "アンスロポロジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "apparatus",
+    "pronunciation": "アパラタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "appease",
+    "pronunciation": "アピーズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "appendix",
+    "pronunciation": "アペンディクス",
+    "accent_type": 1
+  },
+  {
+    "surface": "applicable",
+    "pronunciation": "アプリカブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "appraisal",
+    "pronunciation": "アプレイザル",
+    "accent_type": 1
+  },
+  {
+    "surface": "apprehend",
+    "pronunciation": "アプリヘンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "arbitrary",
+    "pronunciation": "アービトラリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "articulate",
+    "pronunciation": "アーティキュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "ascertain",
+    "pronunciation": "アサーテイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "aspiration",
+    "pronunciation": "アスピレイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "assemble",
+    "pronunciation": "アセンブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "assertive",
+    "pronunciation": "アサーティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "assimilate",
+    "pronunciation": "アシミレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "assurance",
+    "pronunciation": "アシュアランス",
+    "accent_type": 1
+  },
+  {
+    "surface": "asymmetric",
+    "pronunciation": "エイシメトリック",
+    "accent_type": 1
+  },
+  {
+    "surface": "attain",
+    "pronunciation": "アテイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "attest",
+    "pronunciation": "アテスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "attribute",
+    "pronunciation": "アトリビュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "audit",
+    "pronunciation": "オーディット",
+    "accent_type": 1
+  },
+  {
+    "surface": "authentic",
+    "pronunciation": "オーセンティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "authorize",
+    "pronunciation": "オーソライズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "autonomous",
+    "pronunciation": "オートノマス",
+    "accent_type": 1
+  },
+  {
+    "surface": "avert",
+    "pronunciation": "アバート",
+    "accent_type": 1
+  },
+  {
+    "surface": "axiom",
+    "pronunciation": "アクシオム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ballot",
+    "pronunciation": "バロット",
+    "accent_type": 1
+  },
+  {
+    "surface": "bankrupt",
+    "pronunciation": "バンクラプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "bargain",
+    "pronunciation": "バーゲン",
+    "accent_type": 1
+  },
+  {
+    "surface": "barren",
+    "pronunciation": "バレン",
+    "accent_type": 1
+  },
+  {
+    "surface": "benevolent",
+    "pronunciation": "ベネボレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "bilateral",
+    "pronunciation": "バイラテラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "bland",
+    "pronunciation": "ブランド",
+    "accent_type": 1
+  },
+  {
+    "surface": "bleak",
+    "pronunciation": "ブリーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "bolster",
+    "pronunciation": "ボルスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "breach",
+    "pronunciation": "ブリーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "briefing",
+    "pronunciation": "ブリーフィング",
+    "accent_type": 1
+  },
+  {
+    "surface": "brink",
+    "pronunciation": "ブリンク",
+    "accent_type": 1
+  },
+  {
+    "surface": "brochure",
+    "pronunciation": "ブロシュアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "budget",
+    "pronunciation": "バジェット",
+    "accent_type": 1
+  },
+  {
+    "surface": "bulletin",
+    "pronunciation": "ブルティン",
+    "accent_type": 1
+  },
+  {
+    "surface": "buoyant",
+    "pronunciation": "ボイアント",
+    "accent_type": 1
+  },
+  {
+    "surface": "bureaucracy",
+    "pronunciation": "ビューロクラシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "calibrate",
+    "pronunciation": "キャリブレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "candid",
+    "pronunciation": "キャンディッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "capitalize",
+    "pronunciation": "キャピタライズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "catalyst",
+    "pronunciation": "キャタリスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "cater",
+    "pronunciation": "ケイター",
+    "accent_type": 1
+  },
+  {
+    "surface": "cede",
+    "pronunciation": "シード",
+    "accent_type": 1
+  },
+  {
+    "surface": "census",
+    "pronunciation": "センサス",
+    "accent_type": 1
+  },
+  {
+    "surface": "chronic",
+    "pronunciation": "クロニック",
+    "accent_type": 1
+  },
+  {
+    "surface": "chronological",
+    "pronunciation": "クロノロジカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "circa",
+    "pronunciation": "サーカ",
+    "accent_type": 1
+  },
+  {
+    "surface": "circulate",
+    "pronunciation": "サーキュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "circumference",
+    "pronunciation": "サーカムファレンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "circumscribe",
+    "pronunciation": "サーカムスクライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "circumstantial",
+    "pronunciation": "サーカムスタンシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "citation",
+    "pronunciation": "サイテイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "civic",
+    "pronunciation": "シヴィック",
+    "accent_type": 1
+  },
+  {
+    "surface": "clause",
+    "pronunciation": "クローズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "clerical",
+    "pronunciation": "クレリカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "coalition",
+    "pronunciation": "コアリション",
+    "accent_type": 1
+  },
+  {
+    "surface": "coerce",
+    "pronunciation": "コアース",
+    "accent_type": 1
+  },
+  {
+    "surface": "cognitive",
+    "pronunciation": "コグニティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "coherent",
+    "pronunciation": "コヒーレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "cohesion",
+    "pronunciation": "コヒージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "coincide",
+    "pronunciation": "コインサイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "collaborate",
+    "pronunciation": "コラボレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "collateral",
+    "pronunciation": "コラテラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "commemorate",
+    "pronunciation": "コメモレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "commend",
+    "pronunciation": "コメンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "commodity",
+    "pronunciation": "コモディティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "communal",
+    "pronunciation": "コミュナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "compact",
+    "pronunciation": "コンパクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "comparable",
+    "pronunciation": "コンパラブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "compatible",
+    "pronunciation": "コンパティブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "compel",
+    "pronunciation": "コンペル",
+    "accent_type": 1
+  },
+  {
+    "surface": "competence",
+    "pronunciation": "コンピテンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "complementary",
+    "pronunciation": "コンプリメンタリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "compliance",
+    "pronunciation": "コンプライアンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "complicate",
+    "pronunciation": "コンプリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "compliment",
+    "pronunciation": "コンプリメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "comply",
+    "pronunciation": "コンプライ",
+    "accent_type": 1
+  },
+  {
+    "surface": "compromise",
+    "pronunciation": "コンプロマイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "conceive",
+    "pronunciation": "コンシーブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "concession",
+    "pronunciation": "コンセッション",
+    "accent_type": 1
+  },
+  {
+    "surface": "concurrent",
+    "pronunciation": "コンカレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "condemn",
+    "pronunciation": "コンデム",
+    "accent_type": 1
+  },
+  {
+    "surface": "condone",
+    "pronunciation": "コンドーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "configuration",
+    "pronunciation": "コンフィギュレイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "confine",
+    "pronunciation": "コンファイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "confiscate",
+    "pronunciation": "コンフィスケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "conform",
+    "pronunciation": "コンフォーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "confront",
+    "pronunciation": "コンフロント",
+    "accent_type": 1
+  },
+  {
+    "surface": "congregation",
+    "pronunciation": "コングリゲイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "conjunction",
+    "pronunciation": "コンジャンクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "consecutive",
+    "pronunciation": "コンセキュティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "consensus",
+    "pronunciation": "コンセンサス",
+    "accent_type": 1
+  },
+  {
+    "surface": "consequent",
+    "pronunciation": "コンシクエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "consolidate",
+    "pronunciation": "コンソリデイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "consortium",
+    "pronunciation": "コンソーシアム",
+    "accent_type": 1
+  },
+  {
+    "surface": "conspicuous",
+    "pronunciation": "コンスピキュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "constituency",
+    "pronunciation": "コンスティチュエンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "constraint",
+    "pronunciation": "コンストレイント",
+    "accent_type": 1
+  },
+  {
+    "surface": "consultant",
+    "pronunciation": "コンサルタント",
+    "accent_type": 1
+  },
+  {
+    "surface": "consultation",
+    "pronunciation": "コンサルテイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "contemplate",
+    "pronunciation": "コンテンプレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "contend",
+    "pronunciation": "コンテンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "contingency",
+    "pronunciation": "コンティンジェンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "contingent",
+    "pronunciation": "コンティンジェント",
+    "accent_type": 1
+  },
+  {
+    "surface": "contradict",
+    "pronunciation": "コントラディクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "contractor",
+    "pronunciation": "コントラクター",
+    "accent_type": 1
+  },
+  {
+    "surface": "converge",
+    "pronunciation": "コンバージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "convey",
+    "pronunciation": "コンベイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "correlate",
+    "pronunciation": "コリレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "correspondence",
+    "pronunciation": "コレスポンデンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "corrode",
+    "pronunciation": "コロード",
+    "accent_type": 1
+  },
+  {
+    "surface": "corrupt",
+    "pronunciation": "コラプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "counterpart",
+    "pronunciation": "カウンターパート",
+    "accent_type": 1
+  },
+  {
+    "surface": "coup",
+    "pronunciation": "クー",
+    "accent_type": 1
+  },
+  {
+    "surface": "courier",
+    "pronunciation": "クーリエ",
+    "accent_type": 1
+  },
+  {
+    "surface": "covenant",
+    "pronunciation": "カヴェナント",
+    "accent_type": 1
+  },
+  {
+    "surface": "credible",
+    "pronunciation": "クレディブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "criterion",
+    "pronunciation": "クライテリオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "crucial",
+    "pronunciation": "クルーシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "cubicle",
+    "pronunciation": "キュービクル",
+    "accent_type": 1
+  },
+  {
+    "surface": "culminate",
+    "pronunciation": "カルミネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "cumulative",
+    "pronunciation": "キュムラティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "curb",
+    "pronunciation": "カーブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "curtail",
+    "pronunciation": "カーテイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "customary",
+    "pronunciation": "カスタマリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cynical",
+    "pronunciation": "シニカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "daunting",
+    "pronunciation": "ドーンティング",
+    "accent_type": 1
+  },
+  {
+    "surface": "debris",
+    "pronunciation": "デブリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "decisive",
+    "pronunciation": "ディサイシブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "decree",
+    "pronunciation": "ディクリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dedicate",
+    "pronunciation": "デディケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "deem",
+    "pronunciation": "ディーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "defer",
+    "pronunciation": "ディファー",
+    "accent_type": 1
+  },
+  {
+    "surface": "deficiency",
+    "pronunciation": "ディフィシエンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "delegate",
+    "pronunciation": "デリゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "delegation",
+    "pronunciation": "デリゲイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "delicate",
+    "pronunciation": "デリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "demographic",
+    "pronunciation": "デモグラフィック",
+    "accent_type": 1
+  },
+  {
+    "surface": "denote",
+    "pronunciation": "ディノート",
+    "accent_type": 1
+  },
+  {
+    "surface": "denounce",
+    "pronunciation": "ディナウンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "depict",
+    "pronunciation": "ディピクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "deplete",
+    "pronunciation": "ディプリート",
+    "accent_type": 1
+  },
+  {
+    "surface": "depreciation",
+    "pronunciation": "ディプリシエイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "designate",
+    "pronunciation": "デジグネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "detain",
+    "pronunciation": "ディテイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "deteriorate",
+    "pronunciation": "ディテリオレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "detrimental",
+    "pronunciation": "デトリメンタル",
+    "accent_type": 1
+  },
+  {
+    "surface": "devastate",
+    "pronunciation": "デバステイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "deviate",
+    "pronunciation": "ディーヴィエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "diagnose",
+    "pronunciation": "ダイアグノーズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "differentiate",
+    "pronunciation": "ディファレンシエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "dilemma",
+    "pronunciation": "ディレンマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "diligent",
+    "pronunciation": "ディリジェント",
+    "accent_type": 1
+  },
+  {
+    "surface": "diminish",
+    "pronunciation": "ディミニッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "discard",
+    "pronunciation": "ディスカード",
+    "accent_type": 1
+  },
+  {
+    "surface": "discretion",
+    "pronunciation": "ディスクレション",
+    "accent_type": 1
+  },
+  {
+    "surface": "disdain",
+    "pronunciation": "ディスデイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "disparity",
+    "pronunciation": "ディスパリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "displace",
+    "pronunciation": "ディスプレイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "disposition",
+    "pronunciation": "ディスポジション",
+    "accent_type": 1
+  },
+  {
+    "surface": "disrupt",
+    "pronunciation": "ディスラプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "disseminate",
+    "pronunciation": "ディセミネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "dissent",
+    "pronunciation": "ディセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "dissolution",
+    "pronunciation": "ディソリューション",
+    "accent_type": 1
+  },
+  {
+    "surface": "distort",
+    "pronunciation": "ディストート",
+    "accent_type": 1
+  },
+  {
+    "surface": "diverge",
+    "pronunciation": "ダイバージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "diverse",
+    "pronunciation": "ダイバース",
+    "accent_type": 1
+  },
+  {
+    "surface": "dividend",
+    "pronunciation": "ディビデンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "doctrine",
+    "pronunciation": "ドクトリン",
+    "accent_type": 1
+  },
+  {
+    "surface": "documentation",
+    "pronunciation": "ドキュメンテイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "dominion",
+    "pronunciation": "ドミニオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "downturn",
+    "pronunciation": "ダウンターン",
+    "accent_type": 1
+  },
+  {
+    "surface": "drastic",
+    "pronunciation": "ドラスティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "duration",
+    "pronunciation": "デュレイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "dwell",
+    "pronunciation": "ドウェル",
+    "accent_type": 1
+  },
+  {
+    "surface": "elapse",
+    "pronunciation": "イラプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "elevation",
+    "pronunciation": "エレベイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "elicit",
+    "pronunciation": "イリシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "eloquent",
+    "pronunciation": "エロクエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "elude",
+    "pronunciation": "イルード",
+    "accent_type": 1
+  },
+  {
+    "surface": "emanate",
+    "pronunciation": "エマネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "embargo",
+    "pronunciation": "エンバーゴ",
+    "accent_type": 1
+  },
+  {
+    "surface": "embark",
+    "pronunciation": "エンバーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "embody",
+    "pronunciation": "エンボディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "empirical",
+    "pronunciation": "エンピリカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "encompass",
+    "pronunciation": "エンコンパス",
+    "accent_type": 1
+  },
+  {
+    "surface": "endeavor",
+    "pronunciation": "エンデバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "endorse",
+    "pronunciation": "エンドース",
+    "accent_type": 1
+  },
+  {
+    "surface": "endow",
+    "pronunciation": "エンダウ",
+    "accent_type": 1
+  },
+  {
+    "surface": "enlighten",
+    "pronunciation": "エンライトゥン",
+    "accent_type": 1
+  },
+  {
+    "surface": "entail",
+    "pronunciation": "エンテイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "entity",
+    "pronunciation": "エンティティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "entrepreneur",
+    "pronunciation": "アントレプレナー",
+    "accent_type": 1
+  },
+  {
+    "surface": "enumerate",
+    "pronunciation": "イニューメレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "envision",
+    "pronunciation": "エンヴィジョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "equilibrium",
+    "pronunciation": "イクイリブリアム",
+    "accent_type": 1
+  },
+  {
+    "surface": "equitable",
+    "pronunciation": "エクイタブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "equivalent",
+    "pronunciation": "イクイバレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "eradicate",
+    "pronunciation": "イラディケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "erode",
+    "pronunciation": "イロード",
+    "accent_type": 1
+  },
+  {
+    "surface": "erratic",
+    "pronunciation": "イラティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "escalate",
+    "pronunciation": "エスカレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "essence",
+    "pronunciation": "エッセンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "esteem",
+    "pronunciation": "エスティーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "evoke",
+    "pronunciation": "イヴォーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "exacerbate",
+    "pronunciation": "イグザサベイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "excerpt",
+    "pronunciation": "エクサープト",
+    "accent_type": 1
+  },
+  {
+    "surface": "exclusion",
+    "pronunciation": "エクスクルージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "exemplify",
+    "pronunciation": "イグゼンプリファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "exempt",
+    "pronunciation": "イグゼンプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "exert",
+    "pronunciation": "イグザート",
+    "accent_type": 1
+  },
+  {
+    "surface": "exhaust",
+    "pronunciation": "イグゾースト",
+    "accent_type": 1
+  },
+  {
+    "surface": "expenditure",
+    "pronunciation": "エクスペンディチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "explicit",
+    "pronunciation": "エクスプリシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "extraction",
+    "pronunciation": "エクストラクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "extrapolate",
+    "pronunciation": "エクストラポレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "extrinsic",
+    "pronunciation": "エクストリンジック",
+    "accent_type": 1
+  },
+  {
+    "surface": "fabricate",
+    "pronunciation": "ファブリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "facet",
+    "pronunciation": "ファセット",
+    "accent_type": 1
+  },
+  {
+    "surface": "faction",
+    "pronunciation": "ファクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "fallacy",
+    "pronunciation": "ファラシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "feasible",
+    "pronunciation": "フィージブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "feeble",
+    "pronunciation": "フィーブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "fiasco",
+    "pronunciation": "フィアスコ",
+    "accent_type": 1
+  },
+  {
+    "surface": "fiscal",
+    "pronunciation": "フィスカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "flaw",
+    "pronunciation": "フロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "fledgling",
+    "pronunciation": "フレッジリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "fluctuate",
+    "pronunciation": "フラクチュエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "fluent",
+    "pronunciation": "フルーエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "forbid",
+    "pronunciation": "フォービッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "foresee",
+    "pronunciation": "フォーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "forfeit",
+    "pronunciation": "フォーフィット",
+    "accent_type": 1
+  },
+  {
+    "surface": "formidable",
+    "pronunciation": "フォーミダブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "forthcoming",
+    "pronunciation": "フォースカミング",
+    "accent_type": 1
+  },
+  {
+    "surface": "foster",
+    "pronunciation": "フォスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "fragile",
+    "pronunciation": "フラジャイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "franchise",
+    "pronunciation": "フランチャイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "friction",
+    "pronunciation": "フリクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "frivolous",
+    "pronunciation": "フリヴォラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "frugal",
+    "pronunciation": "フルーガル",
+    "accent_type": 1
+  },
+  {
+    "surface": "futile",
+    "pronunciation": "フュータイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "gauge",
+    "pronunciation": "ゲージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "genesis",
+    "pronunciation": "ジェネシス",
+    "accent_type": 1
+  },
+  {
+    "surface": "genocide",
+    "pronunciation": "ジェノサイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "gist",
+    "pronunciation": "ジスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "glean",
+    "pronunciation": "グリーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "gloomy",
+    "pronunciation": "グルーミー",
+    "accent_type": 1
+  },
+  {
+    "surface": "governance",
+    "pronunciation": "ガバナンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "gratitude",
+    "pronunciation": "グラティチュード",
+    "accent_type": 1
+  },
+  {
+    "surface": "grasp",
+    "pronunciation": "グラスプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "grievance",
+    "pronunciation": "グリーバンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "gross",
+    "pronunciation": "グロス",
+    "accent_type": 1
+  },
+  {
+    "surface": "groundwork",
+    "pronunciation": "グラウンドワーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "grudge",
+    "pronunciation": "グラッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "guideline",
+    "pronunciation": "ガイドライン",
+    "accent_type": 1
+  },
+  {
+    "surface": "gullible",
+    "pronunciation": "ガリブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "halt",
+    "pronunciation": "ホルト",
+    "accent_type": 1
+  },
+  {
+    "surface": "hamper",
+    "pronunciation": "ハンパー",
+    "accent_type": 1
+  },
+  {
+    "surface": "handout",
+    "pronunciation": "ハンドアウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "haphazard",
+    "pronunciation": "ハプハザード",
+    "accent_type": 1
+  },
+  {
+    "surface": "harassment",
+    "pronunciation": "ハラスメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "harmonize",
+    "pronunciation": "ハーモナイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "harsh",
+    "pronunciation": "ハーシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "haven",
+    "pronunciation": "ヘイブン",
+    "accent_type": 1
+  },
+  {
+    "surface": "hazard",
+    "pronunciation": "ハザード",
+    "accent_type": 1
+  },
+  {
+    "surface": "headquarters",
+    "pronunciation": "ヘッドクオーターズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "hectic",
+    "pronunciation": "ヘクティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "hence",
+    "pronunciation": "ヘンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "hereditary",
+    "pronunciation": "ヘレディタリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "heterogeneous",
+    "pronunciation": "ヘテロジーニアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "hinder",
+    "pronunciation": "ヒンダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "homogeneous",
+    "pronunciation": "ホモジーニアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "humanitarian",
+    "pronunciation": "ヒューマニテリアン",
+    "accent_type": 1
+  },
+  {
+    "surface": "humiliate",
+    "pronunciation": "ヒューミリエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "hypothetical",
+    "pronunciation": "ハイポセティカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "identical",
+    "pronunciation": "アイデンティカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "ignite",
+    "pronunciation": "イグナイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "illicit",
+    "pronunciation": "イリシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "immerse",
+    "pronunciation": "イマース",
+    "accent_type": 1
+  },
+  {
+    "surface": "imminent",
+    "pronunciation": "イミネント",
+    "accent_type": 1
+  },
+  {
+    "surface": "impair",
+    "pronunciation": "インペアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "impartial",
+    "pronunciation": "インパーシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "impeach",
+    "pronunciation": "インピーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "impede",
+    "pronunciation": "インピード",
+    "accent_type": 1
+  },
+  {
+    "surface": "impending",
+    "pronunciation": "インペンディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "implicit",
+    "pronunciation": "インプリシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "impulse",
+    "pronunciation": "インパルス",
+    "accent_type": 1
+  },
+  {
+    "surface": "inadequate",
+    "pronunciation": "イナデクエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "inaugurate",
+    "pronunciation": "イノーギュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "incidence",
+    "pronunciation": "インシデンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "inclination",
+    "pronunciation": "インクリネイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "increment",
+    "pronunciation": "インクリメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "incur",
+    "pronunciation": "インカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "indemnify",
+    "pronunciation": "インデムニファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "indictment",
+    "pronunciation": "インダイトメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "induce",
+    "pronunciation": "インデュース",
+    "accent_type": 1
+  },
+  {
+    "surface": "infer",
+    "pronunciation": "インファー",
+    "accent_type": 1
+  },
+  {
+    "surface": "inflammatory",
+    "pronunciation": "インフラマトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "influx",
+    "pronunciation": "インフラックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "inherent",
+    "pronunciation": "インヒアレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "inhibit",
+    "pronunciation": "インヒビット",
+    "accent_type": 1
+  },
+  {
+    "surface": "initiate",
+    "pronunciation": "イニシエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "innate",
+    "pronunciation": "イネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "innovative",
+    "pronunciation": "イノベイティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "integral",
+    "pronunciation": "インテグラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "integrity",
+    "pronunciation": "インテグリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "intercept",
+    "pronunciation": "インターセプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "interim",
+    "pronunciation": "インテリム",
+    "accent_type": 1
+  },
+  {
+    "surface": "intermediary",
+    "pronunciation": "インターミディアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "intervene",
+    "pronunciation": "インターヴィーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "intricate",
+    "pronunciation": "イントリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "intrinsic",
+    "pronunciation": "イントリンジック",
+    "accent_type": 1
+  },
+  {
+    "surface": "intuitive",
+    "pronunciation": "インテュイティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "invariably",
+    "pronunciation": "インベリアブリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "inventory",
+    "pronunciation": "インベントリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "invoice",
+    "pronunciation": "インボイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "invoke",
+    "pronunciation": "インヴォーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "ironic",
+    "pronunciation": "アイロニック",
+    "accent_type": 1
+  },
+  {
+    "surface": "irrelevant",
+    "pronunciation": "イレレバント",
+    "accent_type": 1
+  },
+  {
+    "surface": "itinerary",
+    "pronunciation": "アイティネラリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "jeopardize",
+    "pronunciation": "ジェパダイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "judicial",
+    "pronunciation": "ジュディシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "jurisdiction",
+    "pronunciation": "ジュリスディクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "keen",
+    "pronunciation": "キーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "kinetic",
+    "pronunciation": "キネティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "lateral",
+    "pronunciation": "ラテラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "lawsuit",
+    "pronunciation": "ローソート",
+    "accent_type": 1
+  },
+  {
+    "surface": "lenient",
+    "pronunciation": "リーニエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "leverage",
+    "pronunciation": "レバレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "liable",
+    "pronunciation": "ライアブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "liability",
+    "pronunciation": "ライアビリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "liaison",
+    "pronunciation": "リエゾン",
+    "accent_type": 1
+  },
+  {
+    "surface": "likelihood",
+    "pronunciation": "ライクリフッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "limb",
+    "pronunciation": "リム",
+    "accent_type": 1
+  },
+  {
+    "surface": "linger",
+    "pronunciation": "リンガー",
+    "accent_type": 1
+  },
+  {
+    "surface": "linguistic",
+    "pronunciation": "リンギスティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "liquidate",
+    "pronunciation": "リクイデイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "literal",
+    "pronunciation": "リテラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "litigation",
+    "pronunciation": "リティゲイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "locus",
+    "pronunciation": "ローカス",
+    "accent_type": 1
+  },
+  {
+    "surface": "logistics",
+    "pronunciation": "ロジスティクス",
+    "accent_type": 1
+  },
+  {
+    "surface": "longitudinal",
+    "pronunciation": "ロンジチューディナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "loophole",
+    "pronunciation": "ループホール",
+    "accent_type": 1
+  },
+  {
+    "surface": "lucrative",
+    "pronunciation": "ルークラティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "magnitude",
+    "pronunciation": "マグニチュード",
+    "accent_type": 1
+  },
+  {
+    "surface": "malfunction",
+    "pronunciation": "マルファンクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "mandate",
+    "pronunciation": "マンデイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "mandatory",
+    "pronunciation": "マンダトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "manifest",
+    "pronunciation": "マニフェスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "manipulate",
+    "pronunciation": "マニピュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "marginal",
+    "pronunciation": "マージナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "markup",
+    "pronunciation": "マークアップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "maternal",
+    "pronunciation": "マターナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "maximize",
+    "pronunciation": "マキシマイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "mediate",
+    "pronunciation": "ミーディエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "memorandum",
+    "pronunciation": "メモランダム",
+    "accent_type": 1
+  },
+  {
+    "surface": "menace",
+    "pronunciation": "メナス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mentor",
+    "pronunciation": "メンター",
+    "accent_type": 1
+  },
+  {
+    "surface": "merger",
+    "pronunciation": "マージャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "meticulous",
+    "pronunciation": "メティキュラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "methodology",
+    "pronunciation": "メソドロジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "metropolitan",
+    "pronunciation": "メトロポリタン",
+    "accent_type": 1
+  },
+  {
+    "surface": "microscopic",
+    "pronunciation": "マイクロスコピック",
+    "accent_type": 1
+  },
+  {
+    "surface": "milestone",
+    "pronunciation": "マイルストーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "militia",
+    "pronunciation": "ミリシア",
+    "accent_type": 1
+  },
+  {
+    "surface": "minimal",
+    "pronunciation": "ミニマル",
+    "accent_type": 1
+  },
+  {
+    "surface": "minimize",
+    "pronunciation": "ミニマイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "misconception",
+    "pronunciation": "ミスコンセプション",
+    "accent_type": 1
+  },
+  {
+    "surface": "mitigate",
+    "pronunciation": "ミティゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "mobilize",
+    "pronunciation": "モビライズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "monetary",
+    "pronunciation": "マネタリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "moratorium",
+    "pronunciation": "モラトリアム",
+    "accent_type": 1
+  },
+  {
+    "surface": "motive",
+    "pronunciation": "モーティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "municipal",
+    "pronunciation": "ミュニシパル",
+    "accent_type": 1
+  },
+  {
+    "surface": "negligible",
+    "pronunciation": "ネグリジブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "niche",
+    "pronunciation": "ニッチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "nominal",
+    "pronunciation": "ノミナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "nominate",
+    "pronunciation": "ノミネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "nonprofit",
+    "pronunciation": "ノンプロフィット",
+    "accent_type": 1
+  },
+  {
+    "surface": "notable",
+    "pronunciation": "ノータブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "notwithstanding",
+    "pronunciation": "ノットウィズスタンディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "novice",
+    "pronunciation": "ノビス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nuance",
+    "pronunciation": "ニュアンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nurture",
+    "pronunciation": "ナーチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "oblige",
+    "pronunciation": "オブライジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "obscure",
+    "pronunciation": "オブスキュアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "obsolete",
+    "pronunciation": "オブソリート",
+    "accent_type": 1
+  },
+  {
+    "surface": "obstacle",
+    "pronunciation": "オブスタクル",
+    "accent_type": 1
+  },
+  {
+    "surface": "onset",
+    "pronunciation": "オンセット",
+    "accent_type": 1
+  },
+  {
+    "surface": "optimal",
+    "pronunciation": "オプティマル",
+    "accent_type": 1
+  },
+  {
+    "surface": "orient",
+    "pronunciation": "オリエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "orientation",
+    "pronunciation": "オリエンテイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "orthodox",
+    "pronunciation": "オーソドックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "oscillate",
+    "pronunciation": "オシレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "ostensible",
+    "pronunciation": "オステンシブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "outlay",
+    "pronunciation": "アウトレイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "outright",
+    "pronunciation": "アウトライト",
+    "accent_type": 1
+  },
+  {
+    "surface": "outweigh",
+    "pronunciation": "アウトウェイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "overt",
+    "pronunciation": "オーバート",
+    "accent_type": 1
+  },
+  {
+    "surface": "overthrow",
+    "pronunciation": "オーバースロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "overtime",
+    "pronunciation": "オーバータイム",
+    "accent_type": 1
+  },
+  {
+    "surface": "overture",
+    "pronunciation": "オーバーチュアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "overlap",
+    "pronunciation": "オーバーラップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "overhead",
+    "pronunciation": "オーバーヘッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "oversee",
+    "pronunciation": "オーバーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pact",
+    "pronunciation": "パクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "painstaking",
+    "pronunciation": "ペインズテイキング",
+    "accent_type": 1
+  },
+  {
+    "surface": "paramount",
+    "pronunciation": "パラマウント",
+    "accent_type": 1
+  },
+  {
+    "surface": "partisan",
+    "pronunciation": "パーティザン",
+    "accent_type": 1
+  },
+  {
+    "surface": "patent",
+    "pronunciation": "パテント",
+    "accent_type": 1
+  },
+  {
+    "surface": "pathology",
+    "pronunciation": "パソロジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "patronize",
+    "pronunciation": "パトロナイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "payroll",
+    "pronunciation": "ペイロール",
+    "accent_type": 1
+  },
+  {
+    "surface": "penetrate",
+    "pronunciation": "ペネトレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "peril",
+    "pronunciation": "ペリル",
+    "accent_type": 1
+  },
+  {
+    "surface": "peripheral",
+    "pronunciation": "ペリフェラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "perpetual",
+    "pronunciation": "パーペチュアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "persevere",
+    "pronunciation": "パーシヴィアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pertain",
+    "pronunciation": "パーテイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "pertinent",
+    "pronunciation": "パーティネント",
+    "accent_type": 1
+  },
+  {
+    "surface": "pervasive",
+    "pronunciation": "パーベイシブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "philanthropy",
+    "pronunciation": "フィランスロピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "placate",
+    "pronunciation": "プレイケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "plausible",
+    "pronunciation": "プローシブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "plead",
+    "pronunciation": "プリード",
+    "accent_type": 1
+  },
+  {
+    "surface": "pledge",
+    "pronunciation": "プレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "polarize",
+    "pronunciation": "ポーラライズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "postulate",
+    "pronunciation": "ポスチュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "potent",
+    "pronunciation": "ポーテント",
+    "accent_type": 1
+  },
+  {
+    "surface": "pragmatic",
+    "pronunciation": "プラグマティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "precaution",
+    "pronunciation": "プリコーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "precedent",
+    "pronunciation": "プレシデント",
+    "accent_type": 1
+  },
+  {
+    "surface": "precipitate",
+    "pronunciation": "プリシピテイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "preclude",
+    "pronunciation": "プリクルード",
+    "accent_type": 1
+  },
+  {
+    "surface": "predecessor",
+    "pronunciation": "プレデセサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "predicament",
+    "pronunciation": "プリディカメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "predominant",
+    "pronunciation": "プリドミナント",
+    "accent_type": 1
+  },
+  {
+    "surface": "preliminary",
+    "pronunciation": "プリリミナリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "premium",
+    "pronunciation": "プレミアム",
+    "accent_type": 1
+  },
+  {
+    "surface": "prerequisite",
+    "pronunciation": "プリレクイジット",
+    "accent_type": 1
+  },
+  {
+    "surface": "prerogative",
+    "pronunciation": "プリロガティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prescribe",
+    "pronunciation": "プリスクライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prestige",
+    "pronunciation": "プレスティージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "presume",
+    "pronunciation": "プリズーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "prevalent",
+    "pronunciation": "プレバレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "pristine",
+    "pronunciation": "プリスティーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "probe",
+    "pronunciation": "プローブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "probation",
+    "pronunciation": "プロベイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "proclaim",
+    "pronunciation": "プロクレイム",
+    "accent_type": 1
+  },
+  {
+    "surface": "procurement",
+    "pronunciation": "プロキュアメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "productivity",
+    "pronunciation": "プロダクティビティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "proficiency",
+    "pronunciation": "プロフィシエンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "profitability",
+    "pronunciation": "プロフィタビリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "profound",
+    "pronunciation": "プロファウンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "prohibit",
+    "pronunciation": "プロヒビット",
+    "accent_type": 1
+  },
+  {
+    "surface": "prolific",
+    "pronunciation": "プロリフィック",
+    "accent_type": 1
+  },
+  {
+    "surface": "propagate",
+    "pronunciation": "プロパゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "propensity",
+    "pronunciation": "プロペンシティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "proposition",
+    "pronunciation": "プロポジション",
+    "accent_type": 1
+  },
+  {
+    "surface": "proprietor",
+    "pronunciation": "プロプライエター",
+    "accent_type": 1
+  },
+  {
+    "surface": "prosecute",
+    "pronunciation": "プロセキュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "prospective",
+    "pronunciation": "プロスペクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prospectus",
+    "pronunciation": "プロスペクタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "proviso",
+    "pronunciation": "プロヴァイゾー",
+    "accent_type": 1
+  },
+  {
+    "surface": "prudent",
+    "pronunciation": "プルーデント",
+    "accent_type": 1
+  },
+  {
+    "surface": "purport",
+    "pronunciation": "パーポート",
+    "accent_type": 1
+  },
+  {
+    "surface": "qualitative",
+    "pronunciation": "クオリテイティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "quantitative",
+    "pronunciation": "クオンティテイティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "quarantine",
+    "pronunciation": "クオランティーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "quest",
+    "pronunciation": "クエスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "quota",
+    "pronunciation": "クオータ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ratify",
+    "pronunciation": "ラティファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rationale",
+    "pronunciation": "ラショナール",
+    "accent_type": 1
+  },
+  {
+    "surface": "rebate",
+    "pronunciation": "リベイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "rebuke",
+    "pronunciation": "リビューク",
+    "accent_type": 1
+  },
+  {
+    "surface": "receptionist",
+    "pronunciation": "レセプショニスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "reciprocal",
+    "pronunciation": "レシプロカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "reckon",
+    "pronunciation": "レコン",
+    "accent_type": 1
+  },
+  {
+    "surface": "reconcile",
+    "pronunciation": "レコンサイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "recourse",
+    "pronunciation": "リコース",
+    "accent_type": 1
+  },
+  {
+    "surface": "rectify",
+    "pronunciation": "レクティファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "redeem",
+    "pronunciation": "リディーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "redundant",
+    "pronunciation": "リダンダント",
+    "accent_type": 1
+  },
+  {
+    "surface": "referendum",
+    "pronunciation": "レファレンダム",
+    "accent_type": 1
+  },
+  {
+    "surface": "referral",
+    "pronunciation": "リファーラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "refine",
+    "pronunciation": "リファイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "regulate",
+    "pronunciation": "レギュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "rehabilitate",
+    "pronunciation": "リハビリテイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "reimburse",
+    "pronunciation": "リインバース",
+    "accent_type": 1
+  },
+  {
+    "surface": "reimbursement",
+    "pronunciation": "リインバースメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "reiterate",
+    "pronunciation": "リイタレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "relegate",
+    "pronunciation": "レリゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "reluctance",
+    "pronunciation": "リラクタンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "remnant",
+    "pronunciation": "レムナント",
+    "accent_type": 1
+  },
+  {
+    "surface": "remuneration",
+    "pronunciation": "リミューネレイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "renounce",
+    "pronunciation": "リナウンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "renowned",
+    "pronunciation": "リナウンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "repeal",
+    "pronunciation": "リピール",
+    "accent_type": 1
+  },
+  {
+    "surface": "repercussion",
+    "pronunciation": "リパーカッション",
+    "accent_type": 1
+  },
+  {
+    "surface": "repertoire",
+    "pronunciation": "レパートワール",
+    "accent_type": 1
+  },
+  {
+    "surface": "replicate",
+    "pronunciation": "レプリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "repression",
+    "pronunciation": "リプレッション",
+    "accent_type": 1
+  },
+  {
+    "surface": "reprimand",
+    "pronunciation": "レプリマンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "requisite",
+    "pronunciation": "レクイジット",
+    "accent_type": 1
+  },
+  {
+    "surface": "rescind",
+    "pronunciation": "リシンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "residual",
+    "pronunciation": "レジデュアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "resilient",
+    "pronunciation": "レジリエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "respective",
+    "pronunciation": "リスペクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "restitution",
+    "pronunciation": "レスティテューション",
+    "accent_type": 1
+  },
+  {
+    "surface": "restrain",
+    "pronunciation": "リストレイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "restructure",
+    "pronunciation": "リストラクチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "retain",
+    "pronunciation": "リテイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "retaliate",
+    "pronunciation": "リタリエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "retract",
+    "pronunciation": "リトラクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "retrospect",
+    "pronunciation": "レトロスペクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "revenue",
+    "pronunciation": "レベニュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "revise",
+    "pronunciation": "リバイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "revoke",
+    "pronunciation": "リヴォーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "rigorous",
+    "pronunciation": "リゴラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "roster",
+    "pronunciation": "ロスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "rudimentary",
+    "pronunciation": "ルーディメンタリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "rupture",
+    "pronunciation": "ラプチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ruthless",
+    "pronunciation": "ルースレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "safeguard",
+    "pronunciation": "セーフガード",
+    "accent_type": 1
+  },
+  {
+    "surface": "salvage",
+    "pronunciation": "サルベージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "saturate",
+    "pronunciation": "サチュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "scarcity",
+    "pronunciation": "スケアシティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "scrutiny",
+    "pronunciation": "スクルーティニー",
+    "accent_type": 1
+  },
+  {
+    "surface": "secular",
+    "pronunciation": "セキュラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "seize",
+    "pronunciation": "シーズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "seminar",
+    "pronunciation": "セミナー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sequential",
+    "pronunciation": "シークエンシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "setback",
+    "pronunciation": "セットバック",
+    "accent_type": 1
+  },
+  {
+    "surface": "shareholder",
+    "pronunciation": "シェアホルダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "shortfall",
+    "pronunciation": "ショートフォール",
+    "accent_type": 1
+  },
+  {
+    "surface": "simulate",
+    "pronunciation": "シミュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "simultaneous",
+    "pronunciation": "サイマルテイニアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "skeptic",
+    "pronunciation": "スケプティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "sluggish",
+    "pronunciation": "スラギッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "soar",
+    "pronunciation": "ソアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "solicit",
+    "pronunciation": "ソリシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "solvent",
+    "pronunciation": "ソルベント",
+    "accent_type": 1
+  },
+  {
+    "surface": "sophisticated",
+    "pronunciation": "ソフィスティケイテッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "spatial",
+    "pronunciation": "スペイシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "specification",
+    "pronunciation": "スペシフィケイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "speculate",
+    "pronunciation": "スペキュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "squander",
+    "pronunciation": "スクオンダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "stagnant",
+    "pronunciation": "スタグナント",
+    "accent_type": 1
+  },
+  {
+    "surface": "stakeholder",
+    "pronunciation": "ステイクホルダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "stalemate",
+    "pronunciation": "ステイルメイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "staple",
+    "pronunciation": "ステイプル",
+    "accent_type": 1
+  },
+  {
+    "surface": "stationary",
+    "pronunciation": "ステイショナリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "stationery",
+    "pronunciation": "ステイショネリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "statute",
+    "pronunciation": "スタチュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "steadfast",
+    "pronunciation": "ステッドファスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "stipulate",
+    "pronunciation": "スティピュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "strategic",
+    "pronunciation": "ストラテジック",
+    "accent_type": 1
+  },
+  {
+    "surface": "streamline",
+    "pronunciation": "ストリームライン",
+    "accent_type": 1
+  },
+  {
+    "surface": "stringent",
+    "pronunciation": "ストリンジェント",
+    "accent_type": 1
+  },
+  {
+    "surface": "strive",
+    "pronunciation": "ストライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "subsequent",
+    "pronunciation": "サブシクエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "subsidiary",
+    "pronunciation": "サブシディアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "subsidize",
+    "pronunciation": "サブシダイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "substantial",
+    "pronunciation": "サブスタンシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "substantiate",
+    "pronunciation": "サブスタンシエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "successor",
+    "pronunciation": "サクセサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "succumb",
+    "pronunciation": "サカム",
+    "accent_type": 1
+  },
+  {
+    "surface": "summon",
+    "pronunciation": "サモン",
+    "accent_type": 1
+  },
+  {
+    "surface": "superfluous",
+    "pronunciation": "スーパーフルアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "supersede",
+    "pronunciation": "スーパーシード",
+    "accent_type": 1
+  },
+  {
+    "surface": "supervisor",
+    "pronunciation": "スーパーバイザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "susceptible",
+    "pronunciation": "サセプティブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "symmetry",
+    "pronunciation": "シンメトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "syndicate",
+    "pronunciation": "シンディケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "synthesis",
+    "pronunciation": "シンセシス",
+    "accent_type": 1
+  },
+  {
+    "surface": "synthetic",
+    "pronunciation": "シンセティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "tabulate",
+    "pronunciation": "タビュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "tactic",
+    "pronunciation": "タクティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "tangible",
+    "pronunciation": "タンジブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "tariff",
+    "pronunciation": "タリフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "tenacious",
+    "pronunciation": "テネイシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tentative",
+    "pronunciation": "テンタティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "tenure",
+    "pronunciation": "テニュアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "terminate",
+    "pronunciation": "ターミネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "tertiary",
+    "pronunciation": "ターシアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "testament",
+    "pronunciation": "テスタメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "theorem",
+    "pronunciation": "セオレム",
+    "accent_type": 1
+  },
+  {
+    "surface": "therapeutic",
+    "pronunciation": "セラピューティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "thesis",
+    "pronunciation": "シーシス",
+    "accent_type": 1
+  },
+  {
+    "surface": "threshold",
+    "pronunciation": "スレッショルド",
+    "accent_type": 1
+  },
+  {
+    "surface": "thrive",
+    "pronunciation": "スライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "tolerate",
+    "pronunciation": "トレレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "toxic",
+    "pronunciation": "トクシック",
+    "accent_type": 1
+  },
+  {
+    "surface": "trajectory",
+    "pronunciation": "トラジェクトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "transaction",
+    "pronunciation": "トランザクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "transcend",
+    "pronunciation": "トランセンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "transient",
+    "pronunciation": "トランジエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "transparent",
+    "pronunciation": "トランスペアレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "tribunal",
+    "pronunciation": "トリビューナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "trivial",
+    "pronunciation": "トリヴィアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "turbulent",
+    "pronunciation": "タービュレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "turnover",
+    "pronunciation": "ターンオーバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ubiquitous",
+    "pronunciation": "ユビキタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "underestimate",
+    "pronunciation": "アンダーエスティメイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "underlie",
+    "pronunciation": "アンダーライ",
+    "accent_type": 1
+  },
+  {
+    "surface": "undermine",
+    "pronunciation": "アンダーマイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "unilateral",
+    "pronunciation": "ユニラテラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "uphold",
+    "pronunciation": "アップホールド",
+    "accent_type": 1
+  },
+  {
+    "surface": "usurp",
+    "pronunciation": "ユザープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "vehement",
+    "pronunciation": "ヴィーアメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "vendor",
+    "pronunciation": "ベンダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "verification",
+    "pronunciation": "ベリフィケイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "versatile",
+    "pronunciation": "バーサタイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "vest",
+    "pronunciation": "ベスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "viable",
+    "pronunciation": "バイアブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "vicinity",
+    "pronunciation": "ヴィシニティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "vindicate",
+    "pronunciation": "ヴィンディケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "volatile",
+    "pronunciation": "ボラタイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "voucher",
+    "pronunciation": "バウチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "vulnerability",
+    "pronunciation": "バルネラビリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "wane",
+    "pronunciation": "ウェイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "warrant",
+    "pronunciation": "ウォラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "warranty",
+    "pronunciation": "ウォランティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "wary",
+    "pronunciation": "ウェアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "whereby",
+    "pronunciation": "ウェアバイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "wield",
+    "pronunciation": "ウィールド",
+    "accent_type": 1
+  },
+  {
+    "surface": "withhold",
+    "pronunciation": "ウィズホールド",
+    "accent_type": 1
+  },
+  {
+    "surface": "workforce",
+    "pronunciation": "ワークフォース",
+    "accent_type": 1
+  },
+  {
+    "surface": "wrangle",
+    "pronunciation": "ラングル",
+    "accent_type": 1
+  },
+  {
+    "surface": "yearning",
+    "pronunciation": "ヤーニング",
+    "accent_type": 1
+  },
+  {
+    "surface": "zeal",
+    "pronunciation": "ジール",
+    "accent_type": 1
+  },
+  {
+    "surface": "zenith",
+    "pronunciation": "ゼニス",
+    "accent_type": 1
+  },
+  {
+    "surface": "abolition",
+    "pronunciation": "アボリション",
+    "accent_type": 1
+  },
+  {
+    "surface": "abstain",
+    "pronunciation": "アブステイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "accord",
+    "pronunciation": "アコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "accrue",
+    "pronunciation": "アクルー",
+    "accent_type": 1
+  },
+  {
+    "surface": "acquit",
+    "pronunciation": "アクイット",
+    "accent_type": 1
+  },
+  {
+    "surface": "adamant",
+    "pronunciation": "アダマント",
+    "accent_type": 1
+  },
+  {
+    "surface": "adjourn",
+    "pronunciation": "アジャーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "admonish",
+    "pronunciation": "アドモニッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "affidavit",
+    "pronunciation": "アフィデイヴィット",
+    "accent_type": 1
+  },
+  {
+    "surface": "afflict",
+    "pronunciation": "アフリクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "aggravate",
+    "pronunciation": "アグラベイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "allege",
+    "pronunciation": "アレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "allude",
+    "pronunciation": "アルード",
+    "accent_type": 1
+  },
+  {
+    "surface": "amalgamate",
+    "pronunciation": "アマルガメイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "ambience",
+    "pronunciation": "アンビエンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "amicable",
+    "pronunciation": "アミカブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "amnesty",
+    "pronunciation": "アムネスティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "annul",
+    "pronunciation": "アヌル",
+    "accent_type": 1
+  },
+  {
+    "surface": "apathy",
+    "pronunciation": "アパシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "apportion",
+    "pronunciation": "アポーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "aptitude",
+    "pronunciation": "アプティチュード",
+    "accent_type": 1
+  },
+  {
+    "surface": "arable",
+    "pronunciation": "アラブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "ardent",
+    "pronunciation": "アーデント",
+    "accent_type": 1
+  },
+  {
+    "surface": "arduous",
+    "pronunciation": "アーデュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "aristocrat",
+    "pronunciation": "アリストクラット",
+    "accent_type": 1
+  },
+  {
+    "surface": "arraign",
+    "pronunciation": "アレイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "arson",
+    "pronunciation": "アーソン",
+    "accent_type": 1
+  },
+  {
+    "surface": "astute",
+    "pronunciation": "アスチュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "atrocity",
+    "pronunciation": "アトロシティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "augment",
+    "pronunciation": "オーグメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "auspicious",
+    "pronunciation": "オースピシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "austerity",
+    "pronunciation": "オーステリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "avid",
+    "pronunciation": "アヴィッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "bailout",
+    "pronunciation": "ベイルアウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "barter",
+    "pronunciation": "バーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "bastion",
+    "pronunciation": "バスティオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "belligerent",
+    "pronunciation": "ベリジェレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "benign",
+    "pronunciation": "ビナイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "bequest",
+    "pronunciation": "ビクエスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "bipartisan",
+    "pronunciation": "バイパーティザン",
+    "accent_type": 1
+  },
+  {
+    "surface": "blatant",
+    "pronunciation": "ブレイタント",
+    "accent_type": 1
+  },
+  {
+    "surface": "boycott",
+    "pronunciation": "ボイコット",
+    "accent_type": 1
+  },
+  {
+    "surface": "brevity",
+    "pronunciation": "ブレヴィティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "bribery",
+    "pronunciation": "ブライバリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "candor",
+    "pronunciation": "キャンダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "caprice",
+    "pronunciation": "カプリース",
+    "accent_type": 1
+  },
+  {
+    "surface": "cartel",
+    "pronunciation": "カルテル",
+    "accent_type": 1
+  },
+  {
+    "surface": "cataclysm",
+    "pronunciation": "カタクリズム",
+    "accent_type": 1
+  },
+  {
+    "surface": "caveat",
+    "pronunciation": "キャヴィアット",
+    "accent_type": 1
+  },
+  {
+    "surface": "cessation",
+    "pronunciation": "セセイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "charisma",
+    "pronunciation": "カリズマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "clemency",
+    "pronunciation": "クレメンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "clout",
+    "pronunciation": "クラウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "coax",
+    "pronunciation": "コークス",
+    "accent_type": 1
+  },
+  {
+    "surface": "coercion",
+    "pronunciation": "コアーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "cogent",
+    "pronunciation": "コージェント",
+    "accent_type": 1
+  },
+  {
+    "surface": "colloquial",
+    "pronunciation": "コロキアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "collusion",
+    "pronunciation": "コルージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "commensurate",
+    "pronunciation": "コメンシュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "compendium",
+    "pronunciation": "コンペンディアム",
+    "accent_type": 1
+  },
+  {
+    "surface": "complacent",
+    "pronunciation": "コンプレイセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "concede",
+    "pronunciation": "コンシード",
+    "accent_type": 1
+  },
+  {
+    "surface": "concoct",
+    "pronunciation": "コンコクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "conduit",
+    "pronunciation": "コンデュイット",
+    "accent_type": 1
+  },
+  {
+    "surface": "confound",
+    "pronunciation": "コンファウンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "congenial",
+    "pronunciation": "コンジーニアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "conjecture",
+    "pronunciation": "コンジェクチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "connive",
+    "pronunciation": "コナイブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "connotation",
+    "pronunciation": "コノテイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "conscientious",
+    "pronunciation": "コンシエンシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "construe",
+    "pronunciation": "コンストルー",
+    "accent_type": 1
+  },
+  {
+    "surface": "consummate",
+    "pronunciation": "コンサメイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "contagious",
+    "pronunciation": "コンテイジャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "contentious",
+    "pronunciation": "コンテンシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "contrite",
+    "pronunciation": "コントライト",
+    "accent_type": 1
+  },
+  {
+    "surface": "convene",
+    "pronunciation": "コンヴィーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "copious",
+    "pronunciation": "コーピアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "corollary",
+    "pronunciation": "コロラリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "corroborate",
+    "pronunciation": "コロボレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "counterfeit",
+    "pronunciation": "カウンターフィット",
+    "accent_type": 1
+  },
+  {
+    "surface": "credence",
+    "pronunciation": "クリーデンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "crux",
+    "pronunciation": "クラックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "culmination",
+    "pronunciation": "カルミネイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "cumbersome",
+    "pronunciation": "カンバーサム",
+    "accent_type": 1
+  },
+  {
+    "surface": "debacle",
+    "pronunciation": "デバークル",
+    "accent_type": 1
+  },
+  {
+    "surface": "debase",
+    "pronunciation": "ディベイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "decipher",
+    "pronunciation": "ディサイファー",
+    "accent_type": 1
+  },
+  {
+    "surface": "decorum",
+    "pronunciation": "ディコーラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "defamation",
+    "pronunciation": "デファメイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "deference",
+    "pronunciation": "デファレンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "deft",
+    "pronunciation": "デフト",
+    "accent_type": 1
+  },
+  {
+    "surface": "defunct",
+    "pronunciation": "ディファンクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "deleterious",
+    "pronunciation": "デレテリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "delineate",
+    "pronunciation": "ディリニエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "deluge",
+    "pronunciation": "デリュージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "demeanor",
+    "pronunciation": "ディミーナー",
+    "accent_type": 1
+  },
+  {
+    "surface": "demise",
+    "pronunciation": "ディマイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "denigrate",
+    "pronunciation": "デニグレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "depository",
+    "pronunciation": "ディポジトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "derogatory",
+    "pronunciation": "ディロガトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "desiccate",
+    "pronunciation": "デシケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "despondent",
+    "pronunciation": "ディスポンデント",
+    "accent_type": 1
+  },
+  {
+    "surface": "destitute",
+    "pronunciation": "デスティチュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "deterrent",
+    "pronunciation": "ディターレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "diatribe",
+    "pronunciation": "ダイアトライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "dichotomy",
+    "pronunciation": "ダイコトミー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dilatory",
+    "pronunciation": "ディラトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "disaffect",
+    "pronunciation": "ディスアフェクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "disbursement",
+    "pronunciation": "ディスバースメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "discrepancy",
+    "pronunciation": "ディスクレパンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dissipate",
+    "pronunciation": "ディシペイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "divulge",
+    "pronunciation": "ダイヴァルジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "dossier",
+    "pronunciation": "ドシエ",
+    "accent_type": 1
+  },
+  {
+    "surface": "dubious",
+    "pronunciation": "デュービアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "edify",
+    "pronunciation": "エディファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "efficacy",
+    "pronunciation": "エフィカシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "egalitarian",
+    "pronunciation": "イガリテリアン",
+    "accent_type": 1
+  },
+  {
+    "surface": "egregious",
+    "pronunciation": "イグリージャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "elated",
+    "pronunciation": "イレイテッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "emancipate",
+    "pronunciation": "イマンシペイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "embezzle",
+    "pronunciation": "エンベズル",
+    "accent_type": 1
+  },
+  {
+    "surface": "emissary",
+    "pronunciation": "エミサリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "empathy",
+    "pronunciation": "エンパシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "empower",
+    "pronunciation": "エンパワー",
+    "accent_type": 1
+  },
+  {
+    "surface": "enclave",
+    "pronunciation": "エンクレイブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "encroach",
+    "pronunciation": "エンクローチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "engender",
+    "pronunciation": "エンジェンダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "enigma",
+    "pronunciation": "エニグマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "enmity",
+    "pronunciation": "エンミティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ensue",
+    "pronunciation": "エンスー",
+    "accent_type": 1
+  },
+  {
+    "surface": "entice",
+    "pronunciation": "エンタイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "epiphany",
+    "pronunciation": "エピファニー",
+    "accent_type": 1
+  },
+  {
+    "surface": "epitome",
+    "pronunciation": "エピトミー",
+    "accent_type": 1
+  },
+  {
+    "surface": "equanimity",
+    "pronunciation": "イクアニミティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "erroneous",
+    "pronunciation": "エロニアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "erudite",
+    "pronunciation": "エルダイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "espionage",
+    "pronunciation": "エスピオナージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ethereal",
+    "pronunciation": "イシリアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "euphemism",
+    "pronunciation": "ユーフェミズム",
+    "accent_type": 1
+  },
+  {
+    "surface": "exasperate",
+    "pronunciation": "イグザスペレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "excise",
+    "pronunciation": "エクサイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "exhort",
+    "pronunciation": "イグゾート",
+    "accent_type": 1
+  },
+  {
+    "surface": "exonerate",
+    "pronunciation": "イグゾネレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "expedient",
+    "pronunciation": "エクスピーディエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "expedite",
+    "pronunciation": "エクスペダイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "expunge",
+    "pronunciation": "エクスパンジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "extenuate",
+    "pronunciation": "エクステニュエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "extortion",
+    "pronunciation": "エクストーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "extricate",
+    "pronunciation": "エクストリケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "fallible",
+    "pronunciation": "ファリブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "fervent",
+    "pronunciation": "ファーベント",
+    "accent_type": 1
+  },
+  {
+    "surface": "fiduciary",
+    "pronunciation": "フィデューシアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "filibuster",
+    "pronunciation": "フィリバスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "finagle",
+    "pronunciation": "フィネイグル",
+    "accent_type": 1
+  },
+  {
+    "surface": "flagrant",
+    "pronunciation": "フレイグラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "fledge",
+    "pronunciation": "フレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "flout",
+    "pronunciation": "フラウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "foment",
+    "pronunciation": "フォメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "foreclose",
+    "pronunciation": "フォークローズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "forestall",
+    "pronunciation": "フォーストール",
+    "accent_type": 1
+  },
+  {
+    "surface": "formulate",
+    "pronunciation": "フォーミュレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "forsake",
+    "pronunciation": "フォーセイク",
+    "accent_type": 1
+  },
+  {
+    "surface": "fortify",
+    "pronunciation": "フォーティファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "fracture",
+    "pronunciation": "フラクチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "fraudulent",
+    "pronunciation": "フロージュレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "frigate",
+    "pronunciation": "フリゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "fruition",
+    "pronunciation": "フルーイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "garner",
+    "pronunciation": "ガーナー",
+    "accent_type": 1
+  },
+  {
+    "surface": "germane",
+    "pronunciation": "ジャーメイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "glut",
+    "pronunciation": "グラット",
+    "accent_type": 1
+  },
+  {
+    "surface": "grapple",
+    "pronunciation": "グラップル",
+    "accent_type": 1
+  },
+  {
+    "surface": "gratuitous",
+    "pronunciation": "グラテュイタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "gregarious",
+    "pronunciation": "グリゲイリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "hasten",
+    "pronunciation": "ヘイスン",
+    "accent_type": 1
+  },
+  {
+    "surface": "hegemony",
+    "pronunciation": "ヘジェモニー",
+    "accent_type": 1
+  },
+  {
+    "surface": "heresy",
+    "pronunciation": "ヘレシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "hiatus",
+    "pronunciation": "ハイエイタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "hindrance",
+    "pronunciation": "ヒンドランス",
+    "accent_type": 1
+  },
+  {
+    "surface": "holistic",
+    "pronunciation": "ホリスティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "homage",
+    "pronunciation": "ホマージュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "hubris",
+    "pronunciation": "ヒュブリス",
+    "accent_type": 1
+  },
+  {
+    "surface": "idiosyncrasy",
+    "pronunciation": "イディオシンクラシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "imbue",
+    "pronunciation": "インビュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "impasse",
+    "pronunciation": "インパス",
+    "accent_type": 1
+  },
+  {
+    "surface": "impeccable",
+    "pronunciation": "インペカブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "impetus",
+    "pronunciation": "インピタス",
+    "accent_type": 1
+  },
+  {
+    "surface": "impinge",
+    "pronunciation": "インピンジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "implore",
+    "pronunciation": "インプロアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "impunity",
+    "pronunciation": "インピュニティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "impute",
+    "pronunciation": "インピュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "incarcerate",
+    "pronunciation": "インカーセレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "incendiary",
+    "pronunciation": "インセンディアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "incessant",
+    "pronunciation": "インセサント",
+    "accent_type": 1
+  },
+  {
+    "surface": "incipient",
+    "pronunciation": "インシピエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "incontrovertible",
+    "pronunciation": "インコントロバーティブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "incumbent",
+    "pronunciation": "インカンベント",
+    "accent_type": 1
+  },
+  {
+    "surface": "indelible",
+    "pronunciation": "インデリブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "indemnity",
+    "pronunciation": "インデムニティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "indolent",
+    "pronunciation": "インドレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "ineffable",
+    "pronunciation": "イネファブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "inept",
+    "pronunciation": "イネプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "inertia",
+    "pronunciation": "イナーシャ",
+    "accent_type": 1
+  },
+  {
+    "surface": "infallible",
+    "pronunciation": "インファリブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "inflict",
+    "pronunciation": "インフリクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "infraction",
+    "pronunciation": "インフラクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "ingenious",
+    "pronunciation": "インジーニアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "ingrained",
+    "pronunciation": "イングレインド",
+    "accent_type": 1
+  },
+  {
+    "surface": "innuendo",
+    "pronunciation": "イニュエンドー",
+    "accent_type": 1
+  },
+  {
+    "surface": "inordinate",
+    "pronunciation": "イノーディネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "insidious",
+    "pronunciation": "インシディアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "insinuate",
+    "pronunciation": "インシニュエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "instigate",
+    "pronunciation": "インスティゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "insuperable",
+    "pronunciation": "インスーペラブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "insurgent",
+    "pronunciation": "インサージェント",
+    "accent_type": 1
+  },
+  {
+    "surface": "intangible",
+    "pronunciation": "インタンジブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "interlocutor",
+    "pronunciation": "インターロキューター",
+    "accent_type": 1
+  },
+  {
+    "surface": "intractable",
+    "pronunciation": "イントラクタブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "inundate",
+    "pronunciation": "イナンデイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "irrevocable",
+    "pronunciation": "イレヴォカブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "jurisprudence",
+    "pronunciation": "ジュリスプルーデンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "juxtapose",
+    "pronunciation": "ジャクスタポーズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "largesse",
+    "pronunciation": "ラージェス",
+    "accent_type": 1
+  },
+  {
+    "surface": "laudable",
+    "pronunciation": "ローダブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "lethargy",
+    "pronunciation": "レサジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "levity",
+    "pronunciation": "レヴィティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "magnanimous",
+    "pronunciation": "マグナニマス",
+    "accent_type": 1
+  },
+  {
+    "surface": "malfeasance",
+    "pronunciation": "マルフィーザンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "malice",
+    "pronunciation": "マリス",
+    "accent_type": 1
+  },
+  {
+    "surface": "maneuver",
+    "pronunciation": "マヌーバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "misconstrue",
+    "pronunciation": "ミスコンストルー",
+    "accent_type": 1
+  },
+  {
+    "surface": "misnomer",
+    "pronunciation": "ミスノーマー",
+    "accent_type": 1
+  },
+  {
+    "surface": "mollify",
+    "pronunciation": "モリファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "multifaceted",
+    "pronunciation": "マルチファセテッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "nascent",
+    "pronunciation": "ネイセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "nebulous",
+    "pronunciation": "ネビュラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nefarious",
+    "pronunciation": "ニフェリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "negligence",
+    "pronunciation": "ネグリジェンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nexus",
+    "pronunciation": "ネクサス",
+    "accent_type": 1
+  },
+  {
+    "surface": "obfuscate",
+    "pronunciation": "オブファスケイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "obliterate",
+    "pronunciation": "オブリテレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "obtuse",
+    "pronunciation": "オブチュース",
+    "accent_type": 1
+  },
+  {
+    "surface": "onus",
+    "pronunciation": "オーナス",
+    "accent_type": 1
+  },
+  {
+    "surface": "opaque",
+    "pronunciation": "オペイク",
+    "accent_type": 1
+  },
+  {
+    "surface": "ostracize",
+    "pronunciation": "オストラサイズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "overhaul",
+    "pronunciation": "オーバーホール",
+    "accent_type": 1
+  },
+  {
+    "surface": "palliate",
+    "pronunciation": "パリエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "panacea",
+    "pronunciation": "パナシーア",
+    "accent_type": 1
+  },
+  {
+    "surface": "parity",
+    "pronunciation": "パリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pecuniary",
+    "pronunciation": "ペキューニアリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "penchant",
+    "pronunciation": "ペンチャント",
+    "accent_type": 1
+  },
+  {
+    "surface": "penitent",
+    "pronunciation": "ペニテント",
+    "accent_type": 1
+  },
+  {
+    "surface": "per capita",
+    "pronunciation": "パーキャピタ",
+    "accent_type": 1
+  },
+  {
+    "surface": "perfunctory",
+    "pronunciation": "パーファンクトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "permeable",
+    "pronunciation": "パーミアブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "pernicious",
+    "pronunciation": "パーニシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "perpetrate",
+    "pronunciation": "パーペトレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "pinnacle",
+    "pronunciation": "ピナクル",
+    "accent_type": 1
+  },
+  {
+    "surface": "pivotal",
+    "pronunciation": "ピボタル",
+    "accent_type": 1
+  },
+  {
+    "surface": "plaintiff",
+    "pronunciation": "プレインティフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "plethora",
+    "pronunciation": "プレソラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "plight",
+    "pronunciation": "プライト",
+    "accent_type": 1
+  },
+  {
+    "surface": "precarious",
+    "pronunciation": "プリケリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "preemptive",
+    "pronunciation": "プリエンプティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "preeminent",
+    "pronunciation": "プリエミネント",
+    "accent_type": 1
+  },
+  {
+    "surface": "premonition",
+    "pronunciation": "プレモニション",
+    "accent_type": 1
+  },
+  {
+    "surface": "preposterous",
+    "pronunciation": "プリポステラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "pretext",
+    "pronunciation": "プリテクスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "probity",
+    "pronunciation": "プロビティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "prodigal",
+    "pronunciation": "プロディガル",
+    "accent_type": 1
+  },
+  {
+    "surface": "prodigious",
+    "pronunciation": "プロディジャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "proletariat",
+    "pronunciation": "プロレタリアート",
+    "accent_type": 1
+  },
+  {
+    "surface": "promulgate",
+    "pronunciation": "プロマルゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "propitious",
+    "pronunciation": "プロピシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "proscribe",
+    "pronunciation": "プロスクライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prototype",
+    "pronunciation": "プロトタイプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "provenance",
+    "pronunciation": "プロヴェナンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "punitive",
+    "pronunciation": "ピュニティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "quagmire",
+    "pronunciation": "クアグマイアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "qualm",
+    "pronunciation": "クオーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "quandary",
+    "pronunciation": "クオンダリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "quell",
+    "pronunciation": "クエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "querulous",
+    "pronunciation": "クエルラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "quintessential",
+    "pronunciation": "クインテセンシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "quorum",
+    "pronunciation": "クオーラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ramification",
+    "pronunciation": "ラミフィケイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "rampant",
+    "pronunciation": "ランパント",
+    "accent_type": 1
+  },
+  {
+    "surface": "rapport",
+    "pronunciation": "ラポール",
+    "accent_type": 1
+  },
+  {
+    "surface": "ratification",
+    "pronunciation": "ラティフィケイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "raucous",
+    "pronunciation": "ローカス",
+    "accent_type": 1
+  },
+  {
+    "surface": "recalcitrant",
+    "pronunciation": "リカルシトラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "recant",
+    "pronunciation": "リカント",
+    "accent_type": 1
+  },
+  {
+    "surface": "recompense",
+    "pronunciation": "レコンペンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "recrimination",
+    "pronunciation": "リクリミネイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "redress",
+    "pronunciation": "リドレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "refurbish",
+    "pronunciation": "リファービッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "relentless",
+    "pronunciation": "リレントレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "relinquish",
+    "pronunciation": "リリンクイッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "remit",
+    "pronunciation": "リミット",
+    "accent_type": 1
+  },
+  {
+    "surface": "remorse",
+    "pronunciation": "リモース",
+    "accent_type": 1
+  },
+  {
+    "surface": "renege",
+    "pronunciation": "リネッグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "replenish",
+    "pronunciation": "リプレニッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "reprehensible",
+    "pronunciation": "レプリヘンシブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "reprieve",
+    "pronunciation": "リプリーブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "reprisal",
+    "pronunciation": "リプライザル",
+    "accent_type": 1
+  },
+  {
+    "surface": "repudiate",
+    "pronunciation": "リピューディエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "rescission",
+    "pronunciation": "リシジョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "residue",
+    "pronunciation": "レジデュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "resolute",
+    "pronunciation": "レゾリュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "resurgence",
+    "pronunciation": "リサージェンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "reticent",
+    "pronunciation": "レティセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "retroactive",
+    "pronunciation": "レトロアクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rife",
+    "pronunciation": "ライフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rogue",
+    "pronunciation": "ローグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rudiment",
+    "pronunciation": "ルーディメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "ruminate",
+    "pronunciation": "ルーミネイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "salient",
+    "pronunciation": "セイリエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "sardonic",
+    "pronunciation": "サードニック",
+    "accent_type": 1
+  },
+  {
+    "surface": "scandalous",
+    "pronunciation": "スキャンダラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "scapegoat",
+    "pronunciation": "スケイプゴート",
+    "accent_type": 1
+  },
+  {
+    "surface": "schism",
+    "pronunciation": "シズム",
+    "accent_type": 1
+  },
+  {
+    "surface": "scrupulous",
+    "pronunciation": "スクルーピュラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "sediment",
+    "pronunciation": "セディメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "sentinel",
+    "pronunciation": "センティネル",
+    "accent_type": 1
+  },
+  {
+    "surface": "sequester",
+    "pronunciation": "シクエスター",
+    "accent_type": 1
+  },
+  {
+    "surface": "solace",
+    "pronunciation": "ソレイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "solemn",
+    "pronunciation": "ソレム",
+    "accent_type": 1
+  },
+  {
+    "surface": "somber",
+    "pronunciation": "ソンバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "spurious",
+    "pronunciation": "スピュリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "staunch",
+    "pronunciation": "ストーンチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "stigma",
+    "pronunciation": "スティグマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "stipend",
+    "pronunciation": "スタイペンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "strife",
+    "pronunciation": "ストライフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "subjugate",
+    "pronunciation": "サブジュゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "subpoena",
+    "pronunciation": "サピーナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "subversive",
+    "pronunciation": "サブバーシブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "suffrage",
+    "pronunciation": "サフレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "surreptitious",
+    "pronunciation": "サレプティシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "surrogate",
+    "pronunciation": "サロゲイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "susceptibility",
+    "pronunciation": "サセプティビリティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "tacit",
+    "pronunciation": "タシット",
+    "accent_type": 1
+  },
+  {
+    "surface": "tenuous",
+    "pronunciation": "テニュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "terse",
+    "pronunciation": "タース",
+    "accent_type": 1
+  },
+  {
+    "surface": "testimonial",
+    "pronunciation": "テスティモニアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "totalitarian",
+    "pronunciation": "トータリテリアン",
+    "accent_type": 1
+  },
+  {
+    "surface": "transact",
+    "pronunciation": "トランザクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "transcribe",
+    "pronunciation": "トランスクライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "transgression",
+    "pronunciation": "トランスグレッション",
+    "accent_type": 1
+  },
+  {
+    "surface": "treacherous",
+    "pronunciation": "トレチャラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tumultuous",
+    "pronunciation": "テュマルチュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "ubiquity",
+    "pronunciation": "ユビクイティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ulterior",
+    "pronunciation": "アルティリアー",
+    "accent_type": 1
+  },
+  {
+    "surface": "unambiguous",
+    "pronunciation": "アンアンビギュアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "unequivocal",
+    "pronunciation": "アニクイボカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "untenable",
+    "pronunciation": "アンテナブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "upbraid",
+    "pronunciation": "アップブレイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "usurious",
+    "pronunciation": "ユージュリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "vacillate",
+    "pronunciation": "バシレイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "venerable",
+    "pronunciation": "ベネラブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "verbose",
+    "pronunciation": "バーボース",
+    "accent_type": 1
+  },
+  {
+    "surface": "vicarious",
+    "pronunciation": "ヴァイケリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "vigilant",
+    "pronunciation": "ヴィジラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "vindictive",
+    "pronunciation": "ヴィンディクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "visceral",
+    "pronunciation": "ヴィセラル",
+    "accent_type": 1
+  },
+  {
+    "surface": "vocation",
+    "pronunciation": "ヴォケイション",
+    "accent_type": 1
+  },
+  {
+    "surface": "voracious",
+    "pronunciation": "ヴォレイシャス",
+    "accent_type": 1
+  },
+  {
+    "surface": "waiver",
+    "pronunciation": "ウェイバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "writ",
+    "pronunciation": "リット",
+    "accent_type": 1
+  },
+  {
+    "surface": "xenophobia",
+    "pronunciation": "ゼノフォビア",
+    "accent_type": 1
+  },
+  {
+    "surface": "zealous",
+    "pronunciation": "ゼラス",
+    "accent_type": 1
+  }
+]

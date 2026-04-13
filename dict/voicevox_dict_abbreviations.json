@@ -1,0 +1,1937 @@
+[
+  {
+    "surface": "Ctrl",
+    "pronunciation": "コントロール",
+    "accent_type": 4
+  },
+  {
+    "surface": "Alt",
+    "pronunciation": "オルト",
+    "accent_type": 1
+  },
+  {
+    "surface": "Esc",
+    "pronunciation": "エスケープ",
+    "accent_type": 3
+  },
+  {
+    "surface": "Del",
+    "pronunciation": "デリート",
+    "accent_type": 2
+  },
+  {
+    "surface": "Ins",
+    "pronunciation": "インサート",
+    "accent_type": 3
+  },
+  {
+    "surface": "Fn",
+    "pronunciation": "ファンクション",
+    "accent_type": 3
+  },
+  {
+    "surface": "Caps",
+    "pronunciation": "キャプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "CapsLock",
+    "pronunciation": "キャプスロック",
+    "accent_type": 4
+  },
+  {
+    "surface": "NumLock",
+    "pronunciation": "ナムロック",
+    "accent_type": 3
+  },
+  {
+    "surface": "ScrollLock",
+    "pronunciation": "スクロールロック",
+    "accent_type": 5
+  },
+  {
+    "surface": "PrtSc",
+    "pronunciation": "プリントスクリーン",
+    "accent_type": 6
+  },
+  {
+    "surface": "SysRq",
+    "pronunciation": "システムリクエスト",
+    "accent_type": 4
+  },
+  {
+    "surface": "PgUp",
+    "pronunciation": "ページアップ",
+    "accent_type": 4
+  },
+  {
+    "surface": "PgDn",
+    "pronunciation": "ページダウン",
+    "accent_type": 4
+  },
+  {
+    "surface": "Backspace",
+    "pronunciation": "バックスペース",
+    "accent_type": 4
+  },
+  {
+    "surface": "OS",
+    "pronunciation": "オーエス",
+    "accent_type": 3
+  },
+  {
+    "surface": "PC",
+    "pronunciation": "ピーシー",
+    "accent_type": 3
+  },
+  {
+    "surface": "CPU",
+    "pronunciation": "シーピーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "GPU",
+    "pronunciation": "ジーピーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "RAM",
+    "pronunciation": "ラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ROM",
+    "pronunciation": "ロム",
+    "accent_type": 1
+  },
+  {
+    "surface": "SSD",
+    "pronunciation": "エスエスディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "HDD",
+    "pronunciation": "エイチディーディー",
+    "accent_type": 7
+  },
+  {
+    "surface": "USB",
+    "pronunciation": "ユーエスビー",
+    "accent_type": 5
+  },
+  {
+    "surface": "HDMI",
+    "pronunciation": "エイチディーエムアイ",
+    "accent_type": 7
+  },
+  {
+    "surface": "LAN",
+    "pronunciation": "ラン",
+    "accent_type": 1
+  },
+  {
+    "surface": "WAN",
+    "pronunciation": "ワン",
+    "accent_type": 1
+  },
+  {
+    "surface": "WiFi",
+    "pronunciation": "ワイファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "VPN",
+    "pronunciation": "ブイピーエヌ",
+    "accent_type": 5
+  },
+  {
+    "surface": "UI",
+    "pronunciation": "ユーアイ",
+    "accent_type": 3
+  },
+  {
+    "surface": "UX",
+    "pronunciation": "ユーエックス",
+    "accent_type": 5
+  },
+  {
+    "surface": "DB",
+    "pronunciation": "ディービー",
+    "accent_type": 3
+  },
+  {
+    "surface": "RPC",
+    "pronunciation": "アールピーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DDoS",
+    "pronunciation": "ディードス",
+    "accent_type": 3
+  },
+  {
+    "surface": "IoT",
+    "pronunciation": "アイオーティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "AR",
+    "pronunciation": "エーアール",
+    "accent_type": 3
+  },
+  {
+    "surface": "VR",
+    "pronunciation": "ブイアール",
+    "accent_type": 3
+  },
+  {
+    "surface": "MR",
+    "pronunciation": "エムアール",
+    "accent_type": 3
+  },
+  {
+    "surface": "PR",
+    "pronunciation": "ピーアール",
+    "accent_type": 3
+  },
+  {
+    "surface": "QA",
+    "pronunciation": "キューエー",
+    "accent_type": 3
+  },
+  {
+    "surface": "KPI",
+    "pronunciation": "ケーピーアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "ROI",
+    "pronunciation": "アールオーアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "SaaS",
+    "pronunciation": "サース",
+    "accent_type": 1
+  },
+  {
+    "surface": "PaaS",
+    "pronunciation": "パース",
+    "accent_type": 1
+  },
+  {
+    "surface": "IaaS",
+    "pronunciation": "イアース",
+    "accent_type": 1
+  },
+  {
+    "surface": "CMS",
+    "pronunciation": "シーエムエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "CRM",
+    "pronunciation": "シーアールエム",
+    "accent_type": 5
+  },
+  {
+    "surface": "ERP",
+    "pronunciation": "イーアールピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MP3",
+    "pronunciation": "エムピースリー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MP4",
+    "pronunciation": "エムピーフォー",
+    "accent_type": 5
+  },
+  {
+    "surface": "AVI",
+    "pronunciation": "エーブイアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "ZIP",
+    "pronunciation": "ジップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "TAR",
+    "pronunciation": "ター",
+    "accent_type": 1
+  },
+  {
+    "surface": "GZIP",
+    "pronunciation": "ジージップ",
+    "accent_type": 3
+  },
+  {
+    "surface": "yum",
+    "pronunciation": "ヤム",
+    "accent_type": 1
+  },
+  {
+    "surface": "brew",
+    "pronunciation": "ブリュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "BIOS",
+    "pronunciation": "バイオス",
+    "accent_type": 1
+  },
+  {
+    "surface": "UEFI",
+    "pronunciation": "ユーイーエフアイ",
+    "accent_type": 7
+  },
+  {
+    "surface": "RAID",
+    "pronunciation": "レイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "NAS",
+    "pronunciation": "ナス",
+    "accent_type": 1
+  },
+  {
+    "surface": "WAF",
+    "pronunciation": "ワフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "PoC",
+    "pronunciation": "ピーオーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "EC2",
+    "pronunciation": "イーシーツー",
+    "accent_type": 5
+  },
+  {
+    "surface": "S3",
+    "pronunciation": "エススリー",
+    "accent_type": 3
+  },
+  {
+    "surface": "RDS",
+    "pronunciation": "アールディーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "ECS",
+    "pronunciation": "イーシーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "EKS",
+    "pronunciation": "イーケーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "v1",
+    "pronunciation": "バージョンワン",
+    "accent_type": 5
+  },
+  {
+    "surface": "v2",
+    "pronunciation": "バージョンツー",
+    "accent_type": 5
+  },
+  {
+    "surface": "v3",
+    "pronunciation": "バージョンスリー",
+    "accent_type": 5
+  },
+  {
+    "surface": "RC",
+    "pronunciation": "アールシー",
+    "accent_type": 3
+  },
+  {
+    "surface": "GA",
+    "pronunciation": "ジーエー",
+    "accent_type": 3
+  },
+  {
+    "surface": "LTS",
+    "pronunciation": "エルティーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "EOL",
+    "pronunciation": "イーオーエル",
+    "accent_type": 5
+  },
+  {
+    "surface": "GB",
+    "pronunciation": "ギガバイト",
+    "accent_type": 3
+  },
+  {
+    "surface": "MB",
+    "pronunciation": "メガバイト",
+    "accent_type": 3
+  },
+  {
+    "surface": "KB",
+    "pronunciation": "キロバイト",
+    "accent_type": 3
+  },
+  {
+    "surface": "TB",
+    "pronunciation": "テラバイト",
+    "accent_type": 3
+  },
+  {
+    "surface": "GHz",
+    "pronunciation": "ギガヘルツ",
+    "accent_type": 3
+  },
+  {
+    "surface": "MHz",
+    "pronunciation": "メガヘルツ",
+    "accent_type": 3
+  },
+  {
+    "surface": "ms",
+    "pronunciation": "ミリセカンド",
+    "accent_type": 4
+  },
+  {
+    "surface": "fps",
+    "pronunciation": "エフピーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "dpi",
+    "pronunciation": "ディーピーアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "px",
+    "pronunciation": "ピクセル",
+    "accent_type": 1
+  },
+  {
+    "surface": "pt",
+    "pronunciation": "ポイント",
+    "accent_type": 1
+  },
+  {
+    "surface": "em",
+    "pronunciation": "エム",
+    "accent_type": 1
+  },
+  {
+    "surface": "rem",
+    "pronunciation": "レム",
+    "accent_type": 1
+  },
+  {
+    "surface": "vh",
+    "pronunciation": "ビューポートハイト",
+    "accent_type": 6
+  },
+  {
+    "surface": "vw",
+    "pronunciation": "ビューポートウィズ",
+    "accent_type": 6
+  },
+  {
+    "surface": "VS Code",
+    "pronunciation": "ブイエスコード",
+    "accent_type": 5
+  },
+  {
+    "surface": "Linux",
+    "pronunciation": "リナックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "Ubuntu",
+    "pronunciation": "ウブントゥ",
+    "accent_type": 1
+  },
+  {
+    "surface": "macOS",
+    "pronunciation": "マックオーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "Windows",
+    "pronunciation": "ウィンドウズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "Chrome",
+    "pronunciation": "クローム",
+    "accent_type": 2
+  },
+  {
+    "surface": "Firefox",
+    "pronunciation": "ファイアーフォックス",
+    "accent_type": 5
+  },
+  {
+    "surface": "Safari",
+    "pronunciation": "サファリ",
+    "accent_type": 1
+  },
+  {
+    "surface": "PostgreSQL",
+    "pronunciation": "ポストグレスキューエル",
+    "accent_type": 7
+  },
+  {
+    "surface": "MongoDB",
+    "pronunciation": "モンゴディービー",
+    "accent_type": 5
+  },
+  {
+    "surface": "Next.js",
+    "pronunciation": "ネクストジェイエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "Claude",
+    "pronunciation": "クロード",
+    "accent_type": 2
+  },
+  {
+    "surface": "DALL-E",
+    "pronunciation": "ダリ",
+    "accent_type": 1
+  },
+  {
+    "surface": "WebStorm",
+    "pronunciation": "ウェブストーム",
+    "accent_type": 4
+  },
+  {
+    "surface": "PyCharm",
+    "pronunciation": "パイチャーム",
+    "accent_type": 3
+  },
+  {
+    "surface": "NaN",
+    "pronunciation": "ナン",
+    "accent_type": 1
+  },
+  {
+    "surface": "int",
+    "pronunciation": "イント",
+    "accent_type": 1
+  },
+  {
+    "surface": "bool",
+    "pronunciation": "ブール",
+    "accent_type": 1
+  },
+  {
+    "surface": "str",
+    "pronunciation": "ストリング",
+    "accent_type": 3
+  },
+  {
+    "surface": "impl",
+    "pronunciation": "インプル",
+    "accent_type": 1
+  },
+  {
+    "surface": "def",
+    "pronunciation": "デフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "func",
+    "pronunciation": "ファンク",
+    "accent_type": 1
+  },
+  {
+    "surface": "extern",
+    "pronunciation": "エクスターン",
+    "accent_type": 3
+  },
+  {
+    "surface": "readonly",
+    "pronunciation": "リードオンリー",
+    "accent_type": 5
+  },
+  {
+    "surface": "in",
+    "pronunciation": "イン",
+    "accent_type": 1
+  },
+  {
+    "surface": "is",
+    "pronunciation": "イズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "not",
+    "pronunciation": "ノット",
+    "accent_type": 1
+  },
+  {
+    "surface": "and",
+    "pronunciation": "アンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "or",
+    "pronunciation": "オア",
+    "accent_type": 1
+  },
+  {
+    "surface": "println",
+    "pronunciation": "プリントライン",
+    "accent_type": 5
+  },
+  {
+    "surface": "printf",
+    "pronunciation": "プリントエフ",
+    "accent_type": 5
+  },
+  {
+    "surface": "scanf",
+    "pronunciation": "スキャンエフ",
+    "accent_type": 3
+  },
+  {
+    "surface": "sizeof",
+    "pronunciation": "サイズオブ",
+    "accent_type": 3
+  },
+  {
+    "surface": "malloc",
+    "pronunciation": "マロック",
+    "accent_type": 1
+  },
+  {
+    "surface": "alloc",
+    "pronunciation": "アロック",
+    "accent_type": 1
+  },
+  {
+    "surface": "dealloc",
+    "pronunciation": "ディーアロック",
+    "accent_type": 3
+  },
+  {
+    "surface": "deinit",
+    "pronunciation": "ディーイニット",
+    "accent_type": 3
+  },
+  {
+    "surface": "args",
+    "pronunciation": "アーグス",
+    "accent_type": 1
+  },
+  {
+    "surface": "argv",
+    "pronunciation": "アーグブイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "argc",
+    "pronunciation": "アーグシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "EOF",
+    "pronunciation": "イーオーエフ",
+    "accent_type": 5
+  },
+  {
+    "surface": "NUL",
+    "pronunciation": "ヌル",
+    "accent_type": 1
+  },
+  {
+    "surface": "POSIX",
+    "pronunciation": "ポジックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "UNIX",
+    "pronunciation": "ユニックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "GNU",
+    "pronunciation": "グニュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "MIT",
+    "pronunciation": "エムアイティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "BSD",
+    "pronunciation": "ビーエスディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "GPL",
+    "pronunciation": "ジーピーエル",
+    "accent_type": 5
+  },
+  {
+    "surface": "OSS",
+    "pronunciation": "オーエスエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "FOSS",
+    "pronunciation": "フォス",
+    "accent_type": 1
+  },
+  {
+    "surface": "glob",
+    "pronunciation": "グロブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ls",
+    "pronunciation": "エルエス",
+    "accent_type": 3
+  },
+  {
+    "surface": "pwd",
+    "pronunciation": "ピーダブリューディー",
+    "accent_type": 7
+  },
+  {
+    "surface": "mkdir",
+    "pronunciation": "エムケーディアー",
+    "accent_type": 5
+  },
+  {
+    "surface": "rmdir",
+    "pronunciation": "アールエムディアー",
+    "accent_type": 5
+  },
+  {
+    "surface": "su",
+    "pronunciation": "エスユー",
+    "accent_type": 3
+  },
+  {
+    "surface": "localhost",
+    "pronunciation": "ローカルホスト",
+    "accent_type": 5
+  },
+  {
+    "surface": "nano",
+    "pronunciation": "ナノ",
+    "accent_type": 1
+  },
+  {
+    "surface": "svn",
+    "pronunciation": "エスブイエヌ",
+    "accent_type": 5
+  },
+  {
+    "surface": "SMTP",
+    "pronunciation": "エスエムティーピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "IMAP",
+    "pronunciation": "アイマップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "POP3",
+    "pronunciation": "ポップスリー",
+    "accent_type": 4
+  },
+  {
+    "surface": "NTP",
+    "pronunciation": "エヌティーピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DHCP",
+    "pronunciation": "ディーエイチシーピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "ICMP",
+    "pronunciation": "アイシーエムピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "ARP",
+    "pronunciation": "アープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "NAT",
+    "pronunciation": "ナット",
+    "accent_type": 1
+  },
+  {
+    "surface": "BGP",
+    "pronunciation": "ビージーピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "OSPF",
+    "pronunciation": "オーエスピーエフ",
+    "accent_type": 7
+  },
+  {
+    "surface": "VLAN",
+    "pronunciation": "ブイラン",
+    "accent_type": 1
+  },
+  {
+    "surface": "MPLS",
+    "pronunciation": "エムピーエルエス",
+    "accent_type": 7
+  },
+  {
+    "surface": "SDN",
+    "pronunciation": "エスディーエヌ",
+    "accent_type": 5
+  },
+  {
+    "surface": "NFS",
+    "pronunciation": "エヌエフエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "SMB",
+    "pronunciation": "エスエムビー",
+    "accent_type": 5
+  },
+  {
+    "surface": "LDAP",
+    "pronunciation": "エルダップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "SNMP",
+    "pronunciation": "エスエヌエムピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "SIP",
+    "pronunciation": "シップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "VoIP",
+    "pronunciation": "ボイップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "RTSP",
+    "pronunciation": "アールティーエスピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "RTMP",
+    "pronunciation": "アールティーエムピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "HLS",
+    "pronunciation": "エイチエルエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "OTP",
+    "pronunciation": "オーティーピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "2FA",
+    "pronunciation": "ツーエフエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "ACL",
+    "pronunciation": "エーシーエル",
+    "accent_type": 5
+  },
+  {
+    "surface": "PKI",
+    "pronunciation": "ピーケーアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "UTF-8",
+    "pronunciation": "ユーティーエフエイト",
+    "accent_type": 7
+  },
+  {
+    "surface": "SHA256",
+    "pronunciation": "シャニゴロ",
+    "accent_type": 1
+  },
+  {
+    "surface": "IPv4",
+    "pronunciation": "アイピーブイフォー",
+    "accent_type": 7
+  },
+  {
+    "surface": "IPv6",
+    "pronunciation": "アイピーブイシックス",
+    "accent_type": 7
+  },
+  {
+    "surface": "CIDR",
+    "pronunciation": "サイダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "DMZ",
+    "pronunciation": "ディーエムゼット",
+    "accent_type": 5
+  },
+  {
+    "surface": "AGPL",
+    "pronunciation": "エージーピーエル",
+    "accent_type": 7
+  },
+  {
+    "surface": "LGPL",
+    "pronunciation": "エルジーピーエル",
+    "accent_type": 7
+  },
+  {
+    "surface": "AKS",
+    "pronunciation": "エーケーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "ECR",
+    "pronunciation": "イーシーアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "Fargate",
+    "pronunciation": "ファーゲート",
+    "accent_type": 3
+  },
+  {
+    "surface": "SQS",
+    "pronunciation": "エスキューエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "SNS",
+    "pronunciation": "エスエヌエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "SES",
+    "pronunciation": "エスイーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "Kinesis",
+    "pronunciation": "キネシス",
+    "accent_type": 1
+  },
+  {
+    "surface": "CloudFront",
+    "pronunciation": "クラウドフロント",
+    "accent_type": 5
+  },
+  {
+    "surface": "Route53",
+    "pronunciation": "ルートフィフティスリー",
+    "accent_type": 7
+  },
+  {
+    "surface": "CloudWatch",
+    "pronunciation": "クラウドウォッチ",
+    "accent_type": 5
+  },
+  {
+    "surface": "GKE",
+    "pronunciation": "ジーケーイー",
+    "accent_type": 5
+  },
+  {
+    "surface": "GCR",
+    "pronunciation": "ジーシーアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "PubSub",
+    "pronunciation": "パブサブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "k8s",
+    "pronunciation": "クーバネティス",
+    "accent_type": 4
+  },
+  {
+    "surface": "Packer",
+    "pronunciation": "パッカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "Vagrant",
+    "pronunciation": "ベイグラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "HEIC",
+    "pronunciation": "ヒーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "TIFF",
+    "pronunciation": "ティフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "BMP",
+    "pronunciation": "ビーエムピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "ICO",
+    "pronunciation": "アイシーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "WOFF",
+    "pronunciation": "ウォフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "WOFF2",
+    "pronunciation": "ウォフツー",
+    "accent_type": 3
+  },
+  {
+    "surface": "OTF",
+    "pronunciation": "オーティーエフ",
+    "accent_type": 5
+  },
+  {
+    "surface": "TTF",
+    "pronunciation": "ティーティーエフ",
+    "accent_type": 5
+  },
+  {
+    "surface": "WAV",
+    "pronunciation": "ワブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "FLAC",
+    "pronunciation": "フラック",
+    "accent_type": 1
+  },
+  {
+    "surface": "OGG",
+    "pronunciation": "オッグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "AAC",
+    "pronunciation": "エーエーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MKV",
+    "pronunciation": "エムケーブイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "MOV",
+    "pronunciation": "エムオーブイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "WMV",
+    "pronunciation": "ダブリューエムブイ",
+    "accent_type": 7
+  },
+  {
+    "surface": "WebM",
+    "pronunciation": "ウェブエム",
+    "accent_type": 3
+  },
+  {
+    "surface": "DOCX",
+    "pronunciation": "ドックエックス",
+    "accent_type": 4
+  },
+  {
+    "surface": "XLSX",
+    "pronunciation": "エクセルエックス",
+    "accent_type": 5
+  },
+  {
+    "surface": "PPTX",
+    "pronunciation": "パワポエックス",
+    "accent_type": 4
+  },
+  {
+    "surface": "EPUB",
+    "pronunciation": "イーパブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "INI",
+    "pronunciation": "アイエヌアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "Makefile",
+    "pronunciation": "メイクファイル",
+    "accent_type": 4
+  },
+  {
+    "surface": "Fastify",
+    "pronunciation": "ファスティファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "Koa",
+    "pronunciation": "コア",
+    "accent_type": 1
+  },
+  {
+    "surface": "Hono",
+    "pronunciation": "ホノ",
+    "accent_type": 1
+  },
+  {
+    "surface": "Phoenix",
+    "pronunciation": "フェニックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "Echo",
+    "pronunciation": "エコー",
+    "accent_type": 1
+  },
+  {
+    "surface": "Rocket",
+    "pronunciation": "ロケット",
+    "accent_type": 2
+  },
+  {
+    "surface": "Karma",
+    "pronunciation": "カルマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "Jasmine",
+    "pronunciation": "ジャスミン",
+    "accent_type": 1
+  },
+  {
+    "surface": "PHPUnit",
+    "pronunciation": "ピーエイチピーユニット",
+    "accent_type": 7
+  },
+  {
+    "surface": "Podman",
+    "pronunciation": "ポッドマン",
+    "accent_type": 3
+  },
+  {
+    "surface": "containerd",
+    "pronunciation": "コンテナーディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "Buildah",
+    "pronunciation": "ビルダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "Snyk",
+    "pronunciation": "スニーク",
+    "accent_type": 2
+  },
+  {
+    "surface": "New Relic",
+    "pronunciation": "ニューレリック",
+    "accent_type": 5
+  },
+  {
+    "surface": "Logstash",
+    "pronunciation": "ログスタッシュ",
+    "accent_type": 5
+  },
+  {
+    "surface": "Fluentd",
+    "pronunciation": "フルエントディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "Filebeat",
+    "pronunciation": "ファイルビート",
+    "accent_type": 4
+  },
+  {
+    "surface": "CDK",
+    "pronunciation": "シーディーケー",
+    "accent_type": 5
+  },
+  {
+    "surface": "RPM",
+    "pronunciation": "アールピーエム",
+    "accent_type": 5
+  },
+  {
+    "surface": "DEB",
+    "pronunciation": "デブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "DTO",
+    "pronunciation": "ディーティーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DAO",
+    "pronunciation": "ディーエーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "FaaS",
+    "pronunciation": "ファース",
+    "accent_type": 1
+  },
+  {
+    "surface": "BaaS",
+    "pronunciation": "バース",
+    "accent_type": 1
+  },
+  {
+    "surface": "SOAP",
+    "pronunciation": "ソープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "WSDL",
+    "pronunciation": "ダブリューエスディーエル",
+    "accent_type": 9
+  },
+  {
+    "surface": "TPU",
+    "pronunciation": "ティーピーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "NPU",
+    "pronunciation": "エヌピーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "FPGA",
+    "pronunciation": "エフピージーエー",
+    "accent_type": 7
+  },
+  {
+    "surface": "ASIC",
+    "pronunciation": "エーシック",
+    "accent_type": 1
+  },
+  {
+    "surface": "SoC",
+    "pronunciation": "エスオーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MCU",
+    "pronunciation": "エムシーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DSP",
+    "pronunciation": "ディーエスピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DDR4",
+    "pronunciation": "ディーディーアールフォー",
+    "accent_type": 7
+  },
+  {
+    "surface": "DDR5",
+    "pronunciation": "ディーディーアールファイブ",
+    "accent_type": 7
+  },
+  {
+    "surface": "PCIe",
+    "pronunciation": "ピーシーアイイー",
+    "accent_type": 7
+  },
+  {
+    "surface": "NVMe",
+    "pronunciation": "エヌブイエムイー",
+    "accent_type": 7
+  },
+  {
+    "surface": "SATA",
+    "pronunciation": "サタ",
+    "accent_type": 1
+  },
+  {
+    "surface": "SCSI",
+    "pronunciation": "スカジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "DP",
+    "pronunciation": "ディーピー",
+    "accent_type": 3
+  },
+  {
+    "surface": "VGA",
+    "pronunciation": "ブイジーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "DVI",
+    "pronunciation": "ディーブイアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "Thunderbolt",
+    "pronunciation": "サンダーボルト",
+    "accent_type": 4
+  },
+  {
+    "surface": "B2B",
+    "pronunciation": "ビーツービー",
+    "accent_type": 5
+  },
+  {
+    "surface": "B2C",
+    "pronunciation": "ビーツーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "C2C",
+    "pronunciation": "シーツーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "D2C",
+    "pronunciation": "ディーツーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "OKR",
+    "pronunciation": "オーケーアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "ROAS",
+    "pronunciation": "ロアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "LTV",
+    "pronunciation": "エルティーブイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "CAC",
+    "pronunciation": "シーエーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "ARPU",
+    "pronunciation": "アープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ARR",
+    "pronunciation": "エーアールアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "MRR",
+    "pronunciation": "エムアールアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "CTO",
+    "pronunciation": "シーティーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CEO",
+    "pronunciation": "シーイーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CFO",
+    "pronunciation": "シーエフオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "COO",
+    "pronunciation": "シーオーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CPO",
+    "pronunciation": "シーピーオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "RFI",
+    "pronunciation": "アールエフアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "RFP",
+    "pronunciation": "アールエフピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "RFQ",
+    "pronunciation": "アールエフキュー",
+    "accent_type": 5
+  },
+  {
+    "surface": "NDA",
+    "pronunciation": "エヌディーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "SOW",
+    "pronunciation": "エスオーダブリュー",
+    "accent_type": 7
+  },
+  {
+    "surface": "MOU",
+    "pronunciation": "エムオーユー",
+    "accent_type": 5
+  },
+  {
+    "surface": "SWOT",
+    "pronunciation": "スウォット",
+    "accent_type": 1
+  },
+  {
+    "surface": "PEST",
+    "pronunciation": "ペスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "GDPR",
+    "pronunciation": "ジーディーピーアール",
+    "accent_type": 7
+  },
+  {
+    "surface": "CCPA",
+    "pronunciation": "シーシーピーエー",
+    "accent_type": 7
+  },
+  {
+    "surface": "HIPAA",
+    "pronunciation": "ヒッパ",
+    "accent_type": 1
+  },
+  {
+    "surface": "PCI",
+    "pronunciation": "ピーシーアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "Hz",
+    "pronunciation": "ヘルツ",
+    "accent_type": 1
+  },
+  {
+    "surface": "kHz",
+    "pronunciation": "キロヘルツ",
+    "accent_type": 3
+  },
+  {
+    "surface": "nm",
+    "pronunciation": "ナノメートル",
+    "accent_type": 4
+  },
+  {
+    "surface": "mm",
+    "pronunciation": "ミリメートル",
+    "accent_type": 4
+  },
+  {
+    "surface": "cm",
+    "pronunciation": "センチメートル",
+    "accent_type": 5
+  },
+  {
+    "surface": "km",
+    "pronunciation": "キロメートル",
+    "accent_type": 4
+  },
+  {
+    "surface": "mg",
+    "pronunciation": "ミリグラム",
+    "accent_type": 3
+  },
+  {
+    "surface": "kg",
+    "pronunciation": "キログラム",
+    "accent_type": 3
+  },
+  {
+    "surface": "kl",
+    "pronunciation": "キロリットル",
+    "accent_type": 4
+  },
+  {
+    "surface": "kW",
+    "pronunciation": "キロワット",
+    "accent_type": 3
+  },
+  {
+    "surface": "bps",
+    "pronunciation": "ビーピーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "kbps",
+    "pronunciation": "キロビーピーエス",
+    "accent_type": 7
+  },
+  {
+    "surface": "Mbps",
+    "pronunciation": "メガビーピーエス",
+    "accent_type": 7
+  },
+  {
+    "surface": "Gbps",
+    "pronunciation": "ギガビーピーエス",
+    "accent_type": 7
+  },
+  {
+    "surface": "AC",
+    "pronunciation": "エーシー",
+    "accent_type": 3
+  },
+  {
+    "surface": "DC",
+    "pronunciation": "ディーシー",
+    "accent_type": 3
+  },
+  {
+    "surface": "LED",
+    "pronunciation": "エルイーディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "LCD",
+    "pronunciation": "エルシーディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "OLED",
+    "pronunciation": "オーレッド",
+    "accent_type": 3
+  },
+  {
+    "surface": "AMOLED",
+    "pronunciation": "アモレッド",
+    "accent_type": 3
+  },
+  {
+    "surface": "RGB",
+    "pronunciation": "アールジービー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CMYK",
+    "pronunciation": "シーエムワイケー",
+    "accent_type": 7
+  },
+  {
+    "surface": "HSL",
+    "pronunciation": "エイチエスエル",
+    "accent_type": 5
+  },
+  {
+    "surface": "HEX",
+    "pronunciation": "ヘックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "MQTT",
+    "pronunciation": "エムキューティーティー",
+    "accent_type": 7
+  },
+  {
+    "surface": "AMQP",
+    "pronunciation": "エーエムキューピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "OLTP",
+    "pronunciation": "オーエルティーピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "OLAP",
+    "pronunciation": "オーラップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ETL",
+    "pronunciation": "イーティーエル",
+    "accent_type": 5
+  },
+  {
+    "surface": "ELT",
+    "pronunciation": "イーエルティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "IDS",
+    "pronunciation": "アイディーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "IPS",
+    "pronunciation": "アイピーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "SIEM",
+    "pronunciation": "シーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "EDR",
+    "pronunciation": "イーディーアール",
+    "accent_type": 5
+  },
+  {
+    "surface": "XDR",
+    "pronunciation": "エックスディーアール",
+    "accent_type": 7
+  },
+  {
+    "surface": "CVSS",
+    "pronunciation": "シーブイエスエス",
+    "accent_type": 7
+  },
+  {
+    "surface": "NIST",
+    "pronunciation": "ニスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "CTF",
+    "pronunciation": "シーティーエフ",
+    "accent_type": 5
+  },
+  {
+    "surface": "OSINT",
+    "pronunciation": "オシント",
+    "accent_type": 1
+  },
+  {
+    "surface": "APK",
+    "pronunciation": "エーピーケー",
+    "accent_type": 5
+  },
+  {
+    "surface": "IPA",
+    "pronunciation": "アイピーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "AAB",
+    "pronunciation": "エーエービー",
+    "accent_type": 5
+  },
+  {
+    "surface": "NDK",
+    "pronunciation": "エヌディーケー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CNN",
+    "pronunciation": "シーエヌエヌ",
+    "accent_type": 5
+  },
+  {
+    "surface": "RNN",
+    "pronunciation": "アールエヌエヌ",
+    "accent_type": 5
+  },
+  {
+    "surface": "CUDA",
+    "pronunciation": "クーダ",
+    "accent_type": 1
+  },
+  {
+    "surface": "cuDNN",
+    "pronunciation": "クーディーエヌエヌ",
+    "accent_type": 7
+  },
+  {
+    "surface": "ONNX",
+    "pronunciation": "オニックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "AIOps",
+    "pronunciation": "エーアイオプス",
+    "accent_type": 5
+  },
+  {
+    "surface": "FinOps",
+    "pronunciation": "フィンオプス",
+    "accent_type": 3
+  },
+  {
+    "surface": "IRC",
+    "pronunciation": "アイアールシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "Telegram",
+    "pronunciation": "テレグラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "WhatsApp",
+    "pronunciation": "ワッツアップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "Teams",
+    "pronunciation": "チームズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "TPS",
+    "pronunciation": "ティーピーエス",
+    "accent_type": 5
+  },
+  {
+    "surface": "RPG",
+    "pronunciation": "アールピージー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MMO",
+    "pronunciation": "エムエムオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "MMORPG",
+    "pronunciation": "エムエムオーアールピージー",
+    "accent_type": 9
+  },
+  {
+    "surface": "PvP",
+    "pronunciation": "ピーブイピー",
+    "accent_type": 5
+  },
+  {
+    "surface": "PvE",
+    "pronunciation": "ピーブイイー",
+    "accent_type": 5
+  },
+  {
+    "surface": "NPC",
+    "pronunciation": "エヌピーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "Unreal",
+    "pronunciation": "アンリアル",
+    "accent_type": 3
+  },
+  {
+    "surface": "Godot",
+    "pronunciation": "ゴドー",
+    "accent_type": 1
+  },
+  {
+    "surface": "FAQ",
+    "pronunciation": "エフエーキュー",
+    "accent_type": 5
+  },
+  {
+    "surface": "ETA",
+    "pronunciation": "イーティーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "ASAP",
+    "pronunciation": "エーエスエーピー",
+    "accent_type": 7
+  },
+  {
+    "surface": "TBD",
+    "pronunciation": "ティービーディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "TBA",
+    "pronunciation": "ティービーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "WIP",
+    "pronunciation": "ウィップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "EOD",
+    "pronunciation": "イーオーディー",
+    "accent_type": 5
+  },
+  {
+    "surface": "EOW",
+    "pronunciation": "イーオーダブリュー",
+    "accent_type": 7
+  },
+  {
+    "surface": "EOM",
+    "pronunciation": "イーオーエム",
+    "accent_type": 5
+  },
+  {
+    "surface": "AKA",
+    "pronunciation": "エーケーエー",
+    "accent_type": 5
+  },
+  {
+    "surface": "BTW",
+    "pronunciation": "ビーティーダブリュー",
+    "accent_type": 7
+  },
+  {
+    "surface": "FYI",
+    "pronunciation": "エフワイアイ",
+    "accent_type": 5
+  },
+  {
+    "surface": "IMO",
+    "pronunciation": "アイエムオー",
+    "accent_type": 5
+  },
+  {
+    "surface": "TLDR",
+    "pronunciation": "ティーエルディーアール",
+    "accent_type": 7
+  },
+  {
+    "surface": "TODO",
+    "pronunciation": "トゥードゥー",
+    "accent_type": 3
+  },
+  {
+    "surface": "FIXME",
+    "pronunciation": "フィックスミー",
+    "accent_type": 4
+  },
+  {
+    "surface": "LGTM",
+    "pronunciation": "エルジーティーエム",
+    "accent_type": 7
+  },
+  {
+    "surface": "NIT",
+    "pronunciation": "ニット",
+    "accent_type": 1
+  },
+  {
+    "surface": "IEEE",
+    "pronunciation": "アイトリプルイー",
+    "accent_type": 5
+  },
+  {
+    "surface": "UTC",
+    "pronunciation": "ユーティーシー",
+    "accent_type": 5
+  },
+  {
+    "surface": "JST",
+    "pronunciation": "ジェイエスティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "PST",
+    "pronunciation": "ピーエスティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "EST",
+    "pronunciation": "イーエスティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "GMT",
+    "pronunciation": "ジーエムティー",
+    "accent_type": 5
+  },
+  {
+    "surface": "CRLF",
+    "pronunciation": "シーアールエルエフ",
+    "accent_type": 7
+  },
+  {
+    "surface": "LF",
+    "pronunciation": "エルエフ",
+    "accent_type": 3
+  },
+  {
+    "surface": "CR",
+    "pronunciation": "シーアール",
+    "accent_type": 3
+  },
+  {
+    "surface": "OIDC",
+    "pronunciation": "オーアイディーシー",
+    "accent_type": 7
+  },
+  {
+    "surface": "XPATH",
+    "pronunciation": "エックスパス",
+    "accent_type": 3
+  },
+  {
+    "surface": "JSONPath",
+    "pronunciation": "ジェイソンパス",
+    "accent_type": 4
+  },
+  {
+    "surface": "DES",
+    "pronunciation": "デス",
+    "accent_type": 1
+  },
+  {
+    "surface": "Lean",
+    "pronunciation": "リーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "Kaizen",
+    "pronunciation": "カイゼン",
+    "accent_type": 0
+  }
+]

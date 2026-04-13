@@ -23,6 +23,74 @@ function Write-DebugLog {
     }
 }
 
+function Get-TerminalHwnd {
+    # Walk up the process tree to find the terminal window (WindowsTerminal, conhost, etc.)
+    $currentPid = $PID
+    for ($i = 0; $i -lt 10; $i++) {
+        $proc = Get-CimInstance Win32_Process -Filter "ProcessId = $currentPid" -ErrorAction SilentlyContinue
+        if (-not $proc) { break }
+        $parentPid = $proc.ParentProcessId
+        $parentProc = Get-Process -Id $parentPid -ErrorAction SilentlyContinue
+        if ($parentProc -and $parentProc.MainWindowHandle -ne 0) {
+            return @{
+                Hwnd  = $parentProc.MainWindowHandle
+                Title = $parentProc.MainWindowTitle
+                Name  = $parentProc.ProcessName
+            }
+        }
+        $currentPid = $parentPid
+    }
+    return $null
+}
+
+function Register-FocusProtocol {
+    # Auto-register claude-focus:// protocol in HKCU (no admin needed, idempotent)
+    $regPath = "HKCU:\Software\Classes\claude-focus"
+    if (Test-Path "$regPath\shell\open\command") { return }
+
+    $scriptPath = Join-Path $PSScriptRoot "focus_terminal.ps1"
+    $cmdValue = "powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$scriptPath`" `"%1`""
+
+    New-Item -Path $regPath -Force | Out-Null
+    Set-ItemProperty -Path $regPath -Name "(Default)" -Value "URL:Claude Focus Protocol"
+    New-ItemProperty -Path $regPath -Name "URL Protocol" -Value "" -PropertyType String -Force | Out-Null
+    New-Item -Path "$regPath\shell\open\command" -Force | Out-Null
+    Set-ItemProperty -Path "$regPath\shell\open\command" -Name "(Default)" -Value $cmdValue
+}
+
+function Invoke-FlashWindow {
+    param([IntPtr]$Hwnd)
+    if ($Hwnd -eq [IntPtr]::Zero) { return }
+
+    Add-Type @"
+using System;
+using System.Runtime.InteropServices;
+public class FlashWin {
+    [StructLayout(LayoutKind.Sequential)]
+    public struct FLASHWINFO {
+        public uint cbSize;
+        public IntPtr hwnd;
+        public uint dwFlags;
+        public uint uCount;
+        public uint dwTimeout;
+    }
+    [DllImport("user32.dll")]
+    public static extern bool FlashWindowEx(ref FLASHWINFO pwfi);
+
+    public static void Flash(IntPtr hwnd) {
+        FLASHWINFO fi = new FLASHWINFO();
+        fi.cbSize = (uint)Marshal.SizeOf(typeof(FLASHWINFO));
+        fi.hwnd = hwnd;
+        fi.dwFlags = 3;  // FLASHW_ALL (caption + taskbar)
+        fi.uCount = 3;
+        fi.dwTimeout = 0;
+        FlashWindowEx(ref fi);
+    }
+}
+"@
+    [FlashWin]::Flash($Hwnd)
+}
+
 function Remove-Markdown {
     param([string]$Text)
     $Text = [regex]::Replace($Text, '```[\s\S]*?```', '', [System.Text.RegularExpressions.RegexOptions]::Singleline)
@@ -107,17 +175,48 @@ try {
     Write-DebugLog "Title: $title"
     Write-DebugLog "Body: $body"
 
-    # BurntToast 通知（ウサコンアイコン付き）
+    # ── Terminal HWND detection & protocol registration ──
+    $termInfo = Get-TerminalHwnd
+    $termHwnd = if ($termInfo) { $termInfo.Hwnd } else { [IntPtr]::Zero }
+    $projectName = Split-Path -Leaf $PWD
+    Write-DebugLog "Terminal: $($termInfo.Name) HWND=$termHwnd Project=$projectName"
+
+    Register-FocusProtocol
+
+    # BurntToast 通知（ウサコンアイコン付き、Long duration、クリックでターミナルフォーカス）
     Import-Module BurntToast -ErrorAction Stop
 
     $iconPath = Join-Path $PSScriptRoot "usacon_toast_icon.png"
-    if (Test-Path $iconPath) {
-        New-BurntToastNotification -Text "Claude Code", $body -AppLogo $iconPath -ErrorAction Stop
+    $titleText = if ($projectName -and $projectName -ne $env:USERNAME) {
+        "Claude Code [$projectName]"
     } else {
-        New-BurntToastNotification -Text "Claude Code", $body -ErrorAction Stop
+        "Claude Code"
+    }
+    $text1 = New-BTText -Text $titleText
+    $text2 = New-BTText -Text $body
+    if (Test-Path $iconPath) {
+        $appLogo = New-BTImage -Source $iconPath -AppLogoOverride
+        $binding = New-BTBinding -Children $text1, $text2 -AppLogoOverride $appLogo
+    } else {
+        $binding = New-BTBinding -Children $text1, $text2
+    }
+    $visual = New-BTVisual -BindingGeneric $binding
+
+    if ($termHwnd -ne [IntPtr]::Zero) {
+        $launchUri = "claude-focus://$([long]$termHwnd)"
+        $content = New-BTContent -Visual $visual -Duration Long -Launch $launchUri -ActivationType Protocol
+        Write-DebugLog "Activation URI: $launchUri"
+
+        # Flash taskbar button for visual cue
+        Invoke-FlashWindow -Hwnd $termHwnd
+    } else {
+        $content = New-BTContent -Visual $visual -Duration Long
+        Write-DebugLog "No terminal HWND found, notification without activation"
     }
 
-    Write-DebugLog "Toast notification sent"
+    Submit-BTNotification -Content $content -ErrorAction Stop
+
+    Write-DebugLog "Toast notification sent (title: $titleText)"
     Write-DebugLog "=== notify_toast complete ==="
 
 } catch {

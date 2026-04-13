@@ -1,0 +1,55 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh issue:*)",
+      "Bash(npm start)",
+      "Bash(npm run type-check:*)",
+      "Bash(codex exec:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:anthropic.com)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:vercel.com)",
+      "mcp__supabase__list_tables",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_discord_discord__reply",
+      "mcp__plugin_discord_discord__edit_message",
+      "mcp__plugin_discord_discord__fetch_messages",
+      "mcp__plugin_discord_discord__react",
+      "mcp__plugin_discord_discord__download_attachment"
+    ],
+    "deny": [
+      "Bash(rm -rf *)",
+      "Bash(git push --force *)",
+      "Bash(git push -f *)",
+      "Bash(git push origin --delete *)",
+      "Bash(git reset --hard *)",
+      "Bash(git branch -D *)",
+      "Bash(git clean -f *)",
+      "Bash(git checkout -- .)",
+      "Bash(git restore .)",
+      "Bash(curl *)",
+      "Bash(wget *)",
+      "Bash(chmod 777 *)",
+      "Bash(Remove-Item -Recurse -Force *)",
+      "Bash(rd /s /q *)",
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(**/*.pem)",
+      "Read(**/*.key)",
+      "Read(**/*credentials*)"
+    ],
+    "ask": []
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "context7"
+  ],
+  "outputStyle": "Learning"
+}

@@ -1,0 +1,4112 @@
+[
+  {
+    "surface": "var",
+    "pronunciation": "バー",
+    "accent_type": 1
+  },
+  {
+    "surface": "let",
+    "pronunciation": "レット",
+    "accent_type": 1
+  },
+  {
+    "surface": "const",
+    "pronunciation": "コンスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "if",
+    "pronunciation": "イフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "else",
+    "pronunciation": "エルス",
+    "accent_type": 1
+  },
+  {
+    "surface": "elif",
+    "pronunciation": "エリフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "for",
+    "pronunciation": "フォー",
+    "accent_type": 1
+  },
+  {
+    "surface": "do",
+    "pronunciation": "ドゥー",
+    "accent_type": 1
+  },
+  {
+    "surface": "yield",
+    "pronunciation": "イールド",
+    "accent_type": 1
+  },
+  {
+    "surface": "finally",
+    "pronunciation": "ファイナリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "typeof",
+    "pronunciation": "タイプオブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "instanceof",
+    "pronunciation": "インスタンスオブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "void",
+    "pronunciation": "ボイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "this",
+    "pronunciation": "ディス",
+    "accent_type": 1
+  },
+  {
+    "surface": "extends",
+    "pronunciation": "エクステンズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "implements",
+    "pronunciation": "インプリメンツ",
+    "accent_type": 1
+  },
+  {
+    "surface": "abstract",
+    "pronunciation": "アブストラクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "enum",
+    "pronunciation": "イーナム",
+    "accent_type": 1
+  },
+  {
+    "surface": "struct",
+    "pronunciation": "ストラクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "union",
+    "pronunciation": "ユニオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "namespace",
+    "pronunciation": "ネームスペース",
+    "accent_type": 1
+  },
+  {
+    "surface": "from",
+    "pronunciation": "フロム",
+    "accent_type": 1
+  },
+  {
+    "surface": "as",
+    "pronunciation": "アズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "protected",
+    "pronunciation": "プロテクティッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "undefined",
+    "pronunciation": "アンディファインド",
+    "accent_type": 1
+  },
+  {
+    "surface": "nil",
+    "pronunciation": "ニル",
+    "accent_type": 1
+  },
+  {
+    "surface": "primitive",
+    "pronunciation": "プリミティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "decimal",
+    "pronunciation": "デシマル",
+    "accent_type": 1
+  },
+  {
+    "surface": "char",
+    "pronunciation": "チャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "unsigned",
+    "pronunciation": "アンサインド",
+    "accent_type": 1
+  },
+  {
+    "surface": "signed",
+    "pronunciation": "サインド",
+    "accent_type": 1
+  },
+  {
+    "surface": "vector",
+    "pronunciation": "ベクター",
+    "accent_type": 1
+  },
+  {
+    "surface": "dict",
+    "pronunciation": "ディクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "tuple",
+    "pronunciation": "タプル",
+    "accent_type": 1
+  },
+  {
+    "surface": "pair",
+    "pronunciation": "ペア",
+    "accent_type": 1
+  },
+  {
+    "surface": "deque",
+    "pronunciation": "デック",
+    "accent_type": 1
+  },
+  {
+    "surface": "heap",
+    "pronunciation": "ヒープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "linked",
+    "pronunciation": "リンクド",
+    "accent_type": 1
+  },
+  {
+    "surface": "matrix",
+    "pronunciation": "マトリックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tensor",
+    "pronunciation": "テンソル",
+    "accent_type": 1
+  },
+  {
+    "surface": "scalar",
+    "pronunciation": "スカラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "alias",
+    "pronunciation": "エイリアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "generic",
+    "pronunciation": "ジェネリック",
+    "accent_type": 1
+  },
+  {
+    "surface": "pointer",
+    "pronunciation": "ポインター",
+    "accent_type": 1
+  },
+  {
+    "surface": "iterator",
+    "pronunciation": "イテレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "generator",
+    "pronunciation": "ジェネレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "sequence",
+    "pronunciation": "シーケンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "span",
+    "pronunciation": "スパン",
+    "accent_type": 1
+  },
+  {
+    "surface": "html",
+    "pronunciation": "エイチティーエムエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "css",
+    "pronunciation": "シーエスエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "javascript",
+    "pronunciation": "ジャバスクリプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "typescript",
+    "pronunciation": "タイプスクリプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "vue",
+    "pronunciation": "ビュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "angular",
+    "pronunciation": "アンギュラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "svelte",
+    "pronunciation": "スベルト",
+    "accent_type": 1
+  },
+  {
+    "surface": "nuxt",
+    "pronunciation": "ナクスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "gatsby",
+    "pronunciation": "ギャッツビー",
+    "accent_type": 1
+  },
+  {
+    "surface": "webpack",
+    "pronunciation": "ウェブパック",
+    "accent_type": 1
+  },
+  {
+    "surface": "vite",
+    "pronunciation": "ヴィート",
+    "accent_type": 1
+  },
+  {
+    "surface": "babel",
+    "pronunciation": "バベル",
+    "accent_type": 1
+  },
+  {
+    "surface": "eslint",
+    "pronunciation": "イーエスリント",
+    "accent_type": 1
+  },
+  {
+    "surface": "prettier",
+    "pronunciation": "プリティア",
+    "accent_type": 1
+  },
+  {
+    "surface": "tailwind",
+    "pronunciation": "テールウィンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "bootstrap",
+    "pronunciation": "ブートストラップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sass",
+    "pronunciation": "サス",
+    "accent_type": 1
+  },
+  {
+    "surface": "scss",
+    "pronunciation": "エスシーエスエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "dom",
+    "pronunciation": "ドム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ajax",
+    "pronunciation": "エイジャックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "axios",
+    "pronunciation": "アクシオス",
+    "accent_type": 1
+  },
+  {
+    "surface": "graphql",
+    "pronunciation": "グラフキューエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "rest",
+    "pronunciation": "レスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "api",
+    "pronunciation": "エーピーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "endpoint",
+    "pronunciation": "エンドポイント",
+    "accent_type": 1
+  },
+  {
+    "surface": "middleware",
+    "pronunciation": "ミドルウェア",
+    "accent_type": 1
+  },
+  {
+    "surface": "router",
+    "pronunciation": "ルーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "controller",
+    "pronunciation": "コントローラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "directive",
+    "pronunciation": "ディレクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "decorator",
+    "pronunciation": "デコレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "mixin",
+    "pronunciation": "ミックスイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "prop",
+    "pronunciation": "プロップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "reducer",
+    "pronunciation": "リデューサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dispatch",
+    "pronunciation": "ディスパッチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "selector",
+    "pronunciation": "セレクター",
+    "accent_type": 1
+  },
+  {
+    "surface": "memo",
+    "pronunciation": "メモ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ref",
+    "pronunciation": "レフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "consumer",
+    "pronunciation": "コンシューマー",
+    "accent_type": 1
+  },
+  {
+    "surface": "portal",
+    "pronunciation": "ポータル",
+    "accent_type": 1
+  },
+  {
+    "surface": "fragment",
+    "pronunciation": "フラグメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "suspense",
+    "pronunciation": "サスペンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "lazy",
+    "pronunciation": "レイジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "hydration",
+    "pronunciation": "ハイドレーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "ssr",
+    "pronunciation": "エスエスアール",
+    "accent_type": 1
+  },
+  {
+    "surface": "csr",
+    "pronunciation": "シーエスアール",
+    "accent_type": 1
+  },
+  {
+    "surface": "ssg",
+    "pronunciation": "エスエスジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "isr",
+    "pronunciation": "アイエスアール",
+    "accent_type": 1
+  },
+  {
+    "surface": "spa",
+    "pronunciation": "エスピーエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pwa",
+    "pronunciation": "ピーダブリューエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cors",
+    "pronunciation": "コース",
+    "accent_type": 1
+  },
+  {
+    "surface": "csrf",
+    "pronunciation": "シーエスアールエフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "xss",
+    "pronunciation": "エックスエスエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "jwt",
+    "pronunciation": "ジェイダブリューティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "oauth",
+    "pronunciation": "オーオース",
+    "accent_type": 1
+  },
+  {
+    "surface": "payload",
+    "pronunciation": "ペイロード",
+    "accent_type": 1
+  },
+  {
+    "surface": "param",
+    "pronunciation": "パラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "websocket",
+    "pronunciation": "ウェブソケット",
+    "accent_type": 1
+  },
+  {
+    "surface": "sse",
+    "pronunciation": "エスエスイー",
+    "accent_type": 1
+  },
+  {
+    "surface": "polling",
+    "pronunciation": "ポーリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "redirect",
+    "pronunciation": "リダイレクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "cdn",
+    "pronunciation": "シーディーエヌ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ssl",
+    "pronunciation": "エスエスエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "tls",
+    "pronunciation": "ティーエルエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "https",
+    "pronunciation": "エイチティーティーピーエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "http",
+    "pronunciation": "エイチティーティーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dns",
+    "pronunciation": "ディーエヌエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tcp",
+    "pronunciation": "ティーシーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "udp",
+    "pronunciation": "ユーディーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ip",
+    "pronunciation": "アイピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sql",
+    "pronunciation": "エスキューエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "nosql",
+    "pronunciation": "ノーエスキューエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "postgres",
+    "pronunciation": "ポストグレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mysql",
+    "pronunciation": "マイエスキューエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "sqlite",
+    "pronunciation": "エスキューライト",
+    "accent_type": 1
+  },
+  {
+    "surface": "mongo",
+    "pronunciation": "モンゴ",
+    "accent_type": 1
+  },
+  {
+    "surface": "redis",
+    "pronunciation": "レディス",
+    "accent_type": 1
+  },
+  {
+    "surface": "elasticsearch",
+    "pronunciation": "エラスティックサーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "kafka",
+    "pronunciation": "カフカ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rabbitmq",
+    "pronunciation": "ラビットエムキュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "nginx",
+    "pronunciation": "エンジンエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "apache",
+    "pronunciation": "アパッチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "docker",
+    "pronunciation": "ドッカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "kubernetes",
+    "pronunciation": "クーバネティス",
+    "accent_type": 1
+  },
+  {
+    "surface": "terraform",
+    "pronunciation": "テラフォーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ansible",
+    "pronunciation": "アンシブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "jenkins",
+    "pronunciation": "ジェンキンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "github",
+    "pronunciation": "ギットハブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "gitlab",
+    "pronunciation": "ギットラブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "bitbucket",
+    "pronunciation": "ビットバケット",
+    "accent_type": 1
+  },
+  {
+    "surface": "ci",
+    "pronunciation": "シーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "cd",
+    "pronunciation": "シーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pipeline",
+    "pronunciation": "パイプライン",
+    "accent_type": 1
+  },
+  {
+    "surface": "pod",
+    "pronunciation": "ポッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "replica",
+    "pronunciation": "レプリカ",
+    "accent_type": 1
+  },
+  {
+    "surface": "helm",
+    "pronunciation": "ヘルム",
+    "accent_type": 1
+  },
+  {
+    "surface": "ingress",
+    "pronunciation": "イングレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "deployment",
+    "pronunciation": "デプロイメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "microservice",
+    "pronunciation": "マイクロサービス",
+    "accent_type": 1
+  },
+  {
+    "surface": "monolith",
+    "pronunciation": "モノリス",
+    "accent_type": 1
+  },
+  {
+    "surface": "serverless",
+    "pronunciation": "サーバーレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "topic",
+    "pronunciation": "トピック",
+    "accent_type": 1
+  },
+  {
+    "surface": "subscription",
+    "pronunciation": "サブスクリプション",
+    "accent_type": 1
+  },
+  {
+    "surface": "publish",
+    "pronunciation": "パブリッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "subscribe",
+    "pronunciation": "サブスクライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "broker",
+    "pronunciation": "ブローカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "gateway",
+    "pronunciation": "ゲートウェイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "balancer",
+    "pronunciation": "バランサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "firewall",
+    "pronunciation": "ファイアウォール",
+    "accent_type": 1
+  },
+  {
+    "surface": "vpc",
+    "pronunciation": "ブイピーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "subnet",
+    "pronunciation": "サブネット",
+    "accent_type": 1
+  },
+  {
+    "surface": "certificate",
+    "pronunciation": "サーティフィケート",
+    "accent_type": 1
+  },
+  {
+    "surface": "bucket",
+    "pronunciation": "バケット",
+    "accent_type": 1
+  },
+  {
+    "surface": "blob",
+    "pronunciation": "ブロブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "compute",
+    "pronunciation": "コンピュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "migrate",
+    "pronunciation": "マイグレート",
+    "accent_type": 1
+  },
+  {
+    "surface": "rollback",
+    "pronunciation": "ロールバック",
+    "accent_type": 1
+  },
+  {
+    "surface": "canary",
+    "pronunciation": "カナリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "staging",
+    "pronunciation": "ステージング",
+    "accent_type": 1
+  },
+  {
+    "surface": "production",
+    "pronunciation": "プロダクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "development",
+    "pronunciation": "デベロップメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "sandbox",
+    "pronunciation": "サンドボックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "vault",
+    "pronunciation": "ボールト",
+    "accent_type": 1
+  },
+  {
+    "surface": "credential",
+    "pronunciation": "クレデンシャル",
+    "accent_type": 1
+  },
+  {
+    "surface": "iam",
+    "pronunciation": "アイエーエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "auth",
+    "pronunciation": "オース",
+    "accent_type": 1
+  },
+  {
+    "surface": "authentication",
+    "pronunciation": "オーセンティケーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "authorization",
+    "pronunciation": "オーソリゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "encryption",
+    "pronunciation": "エンクリプション",
+    "accent_type": 1
+  },
+  {
+    "surface": "hashing",
+    "pronunciation": "ハッシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "salt",
+    "pronunciation": "ソルト",
+    "accent_type": 1
+  },
+  {
+    "surface": "pepper",
+    "pronunciation": "ペッパー",
+    "accent_type": 1
+  },
+  {
+    "surface": "bcrypt",
+    "pronunciation": "ビークリプト",
+    "accent_type": 1
+  },
+  {
+    "surface": "argon",
+    "pronunciation": "アルゴン",
+    "accent_type": 1
+  },
+  {
+    "surface": "git",
+    "pronunciation": "ギット",
+    "accent_type": 1
+  },
+  {
+    "surface": "rebase",
+    "pronunciation": "リベース",
+    "accent_type": 1
+  },
+  {
+    "surface": "cherry",
+    "pronunciation": "チェリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "stash",
+    "pronunciation": "スタッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "fork",
+    "pronunciation": "フォーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "checkout",
+    "pronunciation": "チェックアウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "revert",
+    "pronunciation": "リバート",
+    "accent_type": 1
+  },
+  {
+    "surface": "blame",
+    "pronunciation": "ブレーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "bisect",
+    "pronunciation": "バイセクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "pre",
+    "pronunciation": "プレ",
+    "accent_type": 1
+  },
+  {
+    "surface": "lint",
+    "pronunciation": "リント",
+    "accent_type": 1
+  },
+  {
+    "surface": "spec",
+    "pronunciation": "スペック",
+    "accent_type": 1
+  },
+  {
+    "surface": "suite",
+    "pronunciation": "スイート",
+    "accent_type": 1
+  },
+  {
+    "surface": "expect",
+    "pronunciation": "エクスペクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "stub",
+    "pronunciation": "スタブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "spy",
+    "pronunciation": "スパイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "fixture",
+    "pronunciation": "フィクスチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "coverage",
+    "pronunciation": "カバレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "benchmark",
+    "pronunciation": "ベンチマーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "breakpoint",
+    "pronunciation": "ブレイクポイント",
+    "accent_type": 1
+  },
+  {
+    "surface": "inspect",
+    "pronunciation": "インスペクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "bash",
+    "pronunciation": "バッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "zsh",
+    "pronunciation": "ズィーシェル",
+    "accent_type": 1
+  },
+  {
+    "surface": "powershell",
+    "pronunciation": "パワーシェル",
+    "accent_type": 1
+  },
+  {
+    "surface": "vim",
+    "pronunciation": "ヴィム",
+    "accent_type": 1
+  },
+  {
+    "surface": "emacs",
+    "pronunciation": "イーマックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "vscode",
+    "pronunciation": "ブイエスコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "intellij",
+    "pronunciation": "インテリジェイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "extension",
+    "pronunciation": "エクステンション",
+    "accent_type": 1
+  },
+  {
+    "surface": "sdk",
+    "pronunciation": "エスディーケー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cli",
+    "pronunciation": "シーエルアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "gui",
+    "pronunciation": "ジーユーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ide",
+    "pronunciation": "アイディーイー",
+    "accent_type": 1
+  },
+  {
+    "surface": "repl",
+    "pronunciation": "レプル",
+    "accent_type": 1
+  },
+  {
+    "surface": "snippet",
+    "pronunciation": "スニペット",
+    "accent_type": 1
+  },
+  {
+    "surface": "scaffold",
+    "pronunciation": "スキャフォールド",
+    "accent_type": 1
+  },
+  {
+    "surface": "boilerplate",
+    "pronunciation": "ボイラープレート",
+    "accent_type": 1
+  },
+  {
+    "surface": "starter",
+    "pronunciation": "スターター",
+    "accent_type": 1
+  },
+  {
+    "surface": "mono",
+    "pronunciation": "モノ",
+    "accent_type": 1
+  },
+  {
+    "surface": "repo",
+    "pronunciation": "リポ",
+    "accent_type": 1
+  },
+  {
+    "surface": "workspace",
+    "pronunciation": "ワークスペース",
+    "accent_type": 1
+  },
+  {
+    "surface": "turbo",
+    "pronunciation": "ターボ",
+    "accent_type": 1
+  },
+  {
+    "surface": "lerna",
+    "pronunciation": "ラーナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "nx",
+    "pronunciation": "エヌエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "pnpm",
+    "pronunciation": "ピーエヌピーエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "npm",
+    "pronunciation": "エヌピーエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "yarn",
+    "pronunciation": "ヤーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "pip",
+    "pronunciation": "ピップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "cargo",
+    "pronunciation": "カーゴ",
+    "accent_type": 1
+  },
+  {
+    "surface": "gem",
+    "pronunciation": "ジェム",
+    "accent_type": 1
+  },
+  {
+    "surface": "composer",
+    "pronunciation": "コンポーザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "maven",
+    "pronunciation": "メイヴン",
+    "accent_type": 1
+  },
+  {
+    "surface": "gradle",
+    "pronunciation": "グレイドル",
+    "accent_type": 1
+  },
+  {
+    "surface": "cmake",
+    "pronunciation": "シーメイク",
+    "accent_type": 1
+  },
+  {
+    "surface": "bazel",
+    "pronunciation": "バゼル",
+    "accent_type": 1
+  },
+  {
+    "surface": "python",
+    "pronunciation": "パイソン",
+    "accent_type": 1
+  },
+  {
+    "surface": "pandas",
+    "pronunciation": "パンダス",
+    "accent_type": 1
+  },
+  {
+    "surface": "numpy",
+    "pronunciation": "ナンパイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "scipy",
+    "pronunciation": "サイパイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "matplotlib",
+    "pronunciation": "マットプロットリブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "seaborn",
+    "pronunciation": "シーボーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "scikit",
+    "pronunciation": "サイキット",
+    "accent_type": 1
+  },
+  {
+    "surface": "tensorflow",
+    "pronunciation": "テンソルフロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pytorch",
+    "pronunciation": "パイトーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "keras",
+    "pronunciation": "ケラス",
+    "accent_type": 1
+  },
+  {
+    "surface": "transformer",
+    "pronunciation": "トランスフォーマー",
+    "accent_type": 1
+  },
+  {
+    "surface": "bert",
+    "pronunciation": "バート",
+    "accent_type": 1
+  },
+  {
+    "surface": "gpt",
+    "pronunciation": "ジーピーティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "llm",
+    "pronunciation": "エルエルエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "embedding",
+    "pronunciation": "エンベディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "attention",
+    "pronunciation": "アテンション",
+    "accent_type": 1
+  },
+  {
+    "surface": "encoder",
+    "pronunciation": "エンコーダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "decoder",
+    "pronunciation": "デコーダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "convolution",
+    "pronunciation": "コンボリューション",
+    "accent_type": 1
+  },
+  {
+    "surface": "recurrent",
+    "pronunciation": "リカレント",
+    "accent_type": 1
+  },
+  {
+    "surface": "lstm",
+    "pronunciation": "エルエスティーエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "gan",
+    "pronunciation": "ガン",
+    "accent_type": 1
+  },
+  {
+    "surface": "vae",
+    "pronunciation": "ブイエーイー",
+    "accent_type": 1
+  },
+  {
+    "surface": "diffusion",
+    "pronunciation": "ディフュージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "reinforcement",
+    "pronunciation": "リインフォースメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "supervised",
+    "pronunciation": "スーパーバイズド",
+    "accent_type": 1
+  },
+  {
+    "surface": "unsupervised",
+    "pronunciation": "アンスーパーバイズド",
+    "accent_type": 1
+  },
+  {
+    "surface": "classification",
+    "pronunciation": "クラシフィケーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "regression",
+    "pronunciation": "リグレッション",
+    "accent_type": 1
+  },
+  {
+    "surface": "clustering",
+    "pronunciation": "クラスタリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "segmentation",
+    "pronunciation": "セグメンテーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "detection",
+    "pronunciation": "ディテクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "recognition",
+    "pronunciation": "レコグニション",
+    "accent_type": 1
+  },
+  {
+    "surface": "generation",
+    "pronunciation": "ジェネレーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "inference",
+    "pronunciation": "インファレンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "training",
+    "pronunciation": "トレーニング",
+    "accent_type": 1
+  },
+  {
+    "surface": "validation",
+    "pronunciation": "バリデーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "epoch",
+    "pronunciation": "エポック",
+    "accent_type": 1
+  },
+  {
+    "surface": "gradient",
+    "pronunciation": "グラディエント",
+    "accent_type": 1
+  },
+  {
+    "surface": "descent",
+    "pronunciation": "ディセント",
+    "accent_type": 1
+  },
+  {
+    "surface": "optimizer",
+    "pronunciation": "オプティマイザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "loss",
+    "pronunciation": "ロス",
+    "accent_type": 1
+  },
+  {
+    "surface": "accuracy",
+    "pronunciation": "アキュラシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "precision",
+    "pronunciation": "プレシジョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "recall",
+    "pronunciation": "リコール",
+    "accent_type": 1
+  },
+  {
+    "surface": "metric",
+    "pronunciation": "メトリック",
+    "accent_type": 1
+  },
+  {
+    "surface": "dataset",
+    "pronunciation": "データセット",
+    "accent_type": 1
+  },
+  {
+    "surface": "dataframe",
+    "pronunciation": "データフレーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "preprocessing",
+    "pronunciation": "プリプロセッシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "normalization",
+    "pronunciation": "ノーマライゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "augmentation",
+    "pronunciation": "オーグメンテーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "tokenizer",
+    "pronunciation": "トークナイザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "vocabulary",
+    "pronunciation": "ボキャブラリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "corpus",
+    "pronunciation": "コーパス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nlp",
+    "pronunciation": "エヌエルピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cv",
+    "pronunciation": "シーブイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rl",
+    "pronunciation": "アールエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "ml",
+    "pronunciation": "エムエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "dl",
+    "pronunciation": "ディーエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "ai",
+    "pronunciation": "エーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "aws",
+    "pronunciation": "エーダブリューエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "azure",
+    "pronunciation": "アジュール",
+    "accent_type": 1
+  },
+  {
+    "surface": "gcp",
+    "pronunciation": "ジーシーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "vercel",
+    "pronunciation": "バーセル",
+    "accent_type": 1
+  },
+  {
+    "surface": "netlify",
+    "pronunciation": "ネットリファイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "heroku",
+    "pronunciation": "ヘロク",
+    "accent_type": 1
+  },
+  {
+    "surface": "supabase",
+    "pronunciation": "スーパベース",
+    "accent_type": 1
+  },
+  {
+    "surface": "firebase",
+    "pronunciation": "ファイアベース",
+    "accent_type": 1
+  },
+  {
+    "surface": "stripe",
+    "pronunciation": "ストライプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "twilio",
+    "pronunciation": "トゥイリオ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sendgrid",
+    "pronunciation": "センドグリッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "cloudflare",
+    "pronunciation": "クラウドフレア",
+    "accent_type": 1
+  },
+  {
+    "surface": "datadog",
+    "pronunciation": "データドッグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sentry",
+    "pronunciation": "セントリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "grafana",
+    "pronunciation": "グラファナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prometheus",
+    "pronunciation": "プロメテウス",
+    "accent_type": 1
+  },
+  {
+    "surface": "kibana",
+    "pronunciation": "キバナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "splunk",
+    "pronunciation": "スプランク",
+    "accent_type": 1
+  },
+  {
+    "surface": "slack",
+    "pronunciation": "スラック",
+    "accent_type": 1
+  },
+  {
+    "surface": "discord",
+    "pronunciation": "ディスコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "notion",
+    "pronunciation": "ノーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "figma",
+    "pronunciation": "フィグマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sketch",
+    "pronunciation": "スケッチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "adobe",
+    "pronunciation": "アドビ",
+    "accent_type": 1
+  },
+  {
+    "surface": "photoshop",
+    "pronunciation": "フォトショップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "illustrator",
+    "pronunciation": "イラストレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "canva",
+    "pronunciation": "キャンバ",
+    "accent_type": 1
+  },
+  {
+    "surface": "trello",
+    "pronunciation": "トレロ",
+    "accent_type": 1
+  },
+  {
+    "surface": "jira",
+    "pronunciation": "ジラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "asana",
+    "pronunciation": "アサナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "linear",
+    "pronunciation": "リニア",
+    "accent_type": 1
+  },
+  {
+    "surface": "copilot",
+    "pronunciation": "コパイロット",
+    "accent_type": 1
+  },
+  {
+    "surface": "anthropic",
+    "pronunciation": "アンソロピック",
+    "accent_type": 1
+  },
+  {
+    "surface": "openai",
+    "pronunciation": "オープンエーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "microsoft",
+    "pronunciation": "マイクロソフト",
+    "accent_type": 1
+  },
+  {
+    "surface": "meta",
+    "pronunciation": "メタ",
+    "accent_type": 1
+  },
+  {
+    "surface": "amazon",
+    "pronunciation": "アマゾン",
+    "accent_type": 1
+  },
+  {
+    "surface": "ios",
+    "pronunciation": "アイオーエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "swift",
+    "pronunciation": "スウィフト",
+    "accent_type": 1
+  },
+  {
+    "surface": "kotlin",
+    "pronunciation": "コトリン",
+    "accent_type": 1
+  },
+  {
+    "surface": "flutter",
+    "pronunciation": "フラッター",
+    "accent_type": 1
+  },
+  {
+    "surface": "dart",
+    "pronunciation": "ダート",
+    "accent_type": 1
+  },
+  {
+    "surface": "expo",
+    "pronunciation": "エキスポ",
+    "accent_type": 1
+  },
+  {
+    "surface": "xcode",
+    "pronunciation": "エックスコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "cocoapod",
+    "pronunciation": "ココアポッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "simulator",
+    "pronunciation": "シミュレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "emulator",
+    "pronunciation": "エミュレーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "responsive",
+    "pronunciation": "レスポンシブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "adaptive",
+    "pronunciation": "アダプティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "viewport",
+    "pronunciation": "ビューポート",
+    "accent_type": 1
+  },
+  {
+    "surface": "gesture",
+    "pronunciation": "ジェスチャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "swipe",
+    "pronunciation": "スワイプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "tap",
+    "pronunciation": "タップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "navigation",
+    "pronunciation": "ナビゲーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "drawer",
+    "pronunciation": "ドロワー",
+    "accent_type": 1
+  },
+  {
+    "surface": "modal",
+    "pronunciation": "モーダル",
+    "accent_type": 1
+  },
+  {
+    "surface": "sheet",
+    "pronunciation": "シート",
+    "accent_type": 1
+  },
+  {
+    "surface": "toast",
+    "pronunciation": "トースト",
+    "accent_type": 1
+  },
+  {
+    "surface": "notification",
+    "pronunciation": "ノーティフィケーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "badge",
+    "pronunciation": "バッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "thumbnail",
+    "pronunciation": "サムネイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "carousel",
+    "pronunciation": "カルーセル",
+    "accent_type": 1
+  },
+  {
+    "surface": "accordion",
+    "pronunciation": "アコーディオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "tooltip",
+    "pronunciation": "ツールチップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "popover",
+    "pronunciation": "ポップオーバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dropdown",
+    "pronunciation": "ドロップダウン",
+    "accent_type": 1
+  },
+  {
+    "surface": "picker",
+    "pronunciation": "ピッカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "slider",
+    "pronunciation": "スライダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "checkbox",
+    "pronunciation": "チェックボックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "radio",
+    "pronunciation": "ラジオ",
+    "accent_type": 1
+  },
+  {
+    "surface": "textarea",
+    "pronunciation": "テキストエリア",
+    "accent_type": 1
+  },
+  {
+    "surface": "placeholder",
+    "pronunciation": "プレースホルダー",
+    "accent_type": 1
+  },
+  {
+    "surface": "gap",
+    "pronunciation": "ギャップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "shadow",
+    "pronunciation": "シャドウ",
+    "accent_type": 1
+  },
+  {
+    "surface": "radius",
+    "pronunciation": "レイディアス",
+    "accent_type": 1
+  },
+  {
+    "surface": "opacity",
+    "pronunciation": "オパシティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "transition",
+    "pronunciation": "トランジション",
+    "accent_type": 1
+  },
+  {
+    "surface": "keyframe",
+    "pronunciation": "キーフレーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "translate",
+    "pronunciation": "トランスレート",
+    "accent_type": 1
+  },
+  {
+    "surface": "rotate",
+    "pronunciation": "ローテート",
+    "accent_type": 1
+  },
+  {
+    "surface": "blur",
+    "pronunciation": "ブラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "clip",
+    "pronunciation": "クリップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "overflow",
+    "pronunciation": "オーバーフロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "absolute",
+    "pronunciation": "アブソリュート",
+    "accent_type": 1
+  },
+  {
+    "surface": "relative",
+    "pronunciation": "リラティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "fixed",
+    "pronunciation": "フィックスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "sticky",
+    "pronunciation": "スティッキー",
+    "accent_type": 1
+  },
+  {
+    "surface": "visibility",
+    "pronunciation": "ビジビリティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "aria",
+    "pronunciation": "アリア",
+    "accent_type": 1
+  },
+  {
+    "surface": "accessibility",
+    "pronunciation": "アクセシビリティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "semantic",
+    "pronunciation": "セマンティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "rust",
+    "pronunciation": "ラスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "golang",
+    "pronunciation": "ゴーラング",
+    "accent_type": 1
+  },
+  {
+    "surface": "ruby",
+    "pronunciation": "ルビー",
+    "accent_type": 1
+  },
+  {
+    "surface": "java",
+    "pronunciation": "ジャバ",
+    "accent_type": 1
+  },
+  {
+    "surface": "csharp",
+    "pronunciation": "シーシャープ",
+    "accent_type": 1
+  },
+  {
+    "surface": "php",
+    "pronunciation": "ピーエイチピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "perl",
+    "pronunciation": "パール",
+    "accent_type": 1
+  },
+  {
+    "surface": "scala",
+    "pronunciation": "スカラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "elixir",
+    "pronunciation": "エリクサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "haskell",
+    "pronunciation": "ハスケル",
+    "accent_type": 1
+  },
+  {
+    "surface": "clojure",
+    "pronunciation": "クロージャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "lua",
+    "pronunciation": "ルア",
+    "accent_type": 1
+  },
+  {
+    "surface": "zig",
+    "pronunciation": "ジグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "wasm",
+    "pronunciation": "ワズム",
+    "accent_type": 1
+  },
+  {
+    "surface": "webassembly",
+    "pronunciation": "ウェブアセンブリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "regex",
+    "pronunciation": "レジェックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "regexp",
+    "pronunciation": "レグエクスプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "mutex",
+    "pronunciation": "ミューテックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "semaphore",
+    "pronunciation": "セマフォ",
+    "accent_type": 1
+  },
+  {
+    "surface": "deadlock",
+    "pronunciation": "デッドロック",
+    "accent_type": 1
+  },
+  {
+    "surface": "concurrency",
+    "pronunciation": "コンカレンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "multithreading",
+    "pronunciation": "マルチスレッディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "coroutine",
+    "pronunciation": "コルーチン",
+    "accent_type": 1
+  },
+  {
+    "surface": "goroutine",
+    "pronunciation": "ゴルーチン",
+    "accent_type": 1
+  },
+  {
+    "surface": "fiber",
+    "pronunciation": "ファイバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "singleton",
+    "pronunciation": "シングルトン",
+    "accent_type": 1
+  },
+  {
+    "surface": "factory",
+    "pronunciation": "ファクトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "observer",
+    "pronunciation": "オブザーバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "strategy",
+    "pronunciation": "ストラテジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "adapter",
+    "pronunciation": "アダプター",
+    "accent_type": 1
+  },
+  {
+    "surface": "facade",
+    "pronunciation": "ファサード",
+    "accent_type": 1
+  },
+  {
+    "surface": "dependency",
+    "pronunciation": "ディペンデンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "injection",
+    "pronunciation": "インジェクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "polymorphism",
+    "pronunciation": "ポリモーフィズム",
+    "accent_type": 1
+  },
+  {
+    "surface": "inheritance",
+    "pronunciation": "インヘリタンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "encapsulation",
+    "pronunciation": "エンカプセレーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "abstraction",
+    "pronunciation": "アブストラクション",
+    "accent_type": 1
+  },
+  {
+    "surface": "recursion",
+    "pronunciation": "リカージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "iteration",
+    "pronunciation": "イテレーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "serialization",
+    "pronunciation": "シリアライゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "deserialization",
+    "pronunciation": "デシリアライゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "marshalling",
+    "pronunciation": "マーシャリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "refactoring",
+    "pronunciation": "リファクタリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "debugging",
+    "pronunciation": "デバッギング",
+    "accent_type": 1
+  },
+  {
+    "surface": "profiling",
+    "pronunciation": "プロファイリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "linting",
+    "pronunciation": "リンティング",
+    "accent_type": 1
+  },
+  {
+    "surface": "minification",
+    "pronunciation": "ミニフィケーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "bundling",
+    "pronunciation": "バンドリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "transpiling",
+    "pronunciation": "トランスパイリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "compiling",
+    "pronunciation": "コンパイリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "linking",
+    "pronunciation": "リンキング",
+    "accent_type": 1
+  },
+  {
+    "surface": "polyfill",
+    "pronunciation": "ポリフィル",
+    "accent_type": 1
+  },
+  {
+    "surface": "shim",
+    "pronunciation": "シム",
+    "accent_type": 1
+  },
+  {
+    "surface": "fallback",
+    "pronunciation": "フォールバック",
+    "accent_type": 1
+  },
+  {
+    "surface": "workaround",
+    "pronunciation": "ワークアラウンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "hotfix",
+    "pronunciation": "ホットフィックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "bugfix",
+    "pronunciation": "バグフィックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "changelog",
+    "pronunciation": "チェンジログ",
+    "accent_type": 1
+  },
+  {
+    "surface": "semver",
+    "pronunciation": "セムバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "deprecated",
+    "pronunciation": "デプリケーテッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "legacy",
+    "pronunciation": "レガシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cron",
+    "pronunciation": "クロン",
+    "accent_type": 1
+  },
+  {
+    "surface": "daemon",
+    "pronunciation": "デーモン",
+    "accent_type": 1
+  },
+  {
+    "surface": "cronjob",
+    "pronunciation": "クロンジョブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "upstream",
+    "pronunciation": "アップストリーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "downstream",
+    "pronunciation": "ダウンストリーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "latency",
+    "pronunciation": "レイテンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "throughput",
+    "pronunciation": "スループット",
+    "accent_type": 1
+  },
+  {
+    "surface": "bandwidth",
+    "pronunciation": "バンドウィドス",
+    "accent_type": 1
+  },
+  {
+    "surface": "throttle",
+    "pronunciation": "スロットル",
+    "accent_type": 1
+  },
+  {
+    "surface": "debounce",
+    "pronunciation": "デバウンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "pagination",
+    "pronunciation": "ページネーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "infinite",
+    "pronunciation": "インフィニット",
+    "accent_type": 1
+  },
+  {
+    "surface": "lazy loading",
+    "pronunciation": "レイジーローディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "eager",
+    "pronunciation": "イーガー",
+    "accent_type": 1
+  },
+  {
+    "surface": "memoization",
+    "pronunciation": "メモイゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "caching",
+    "pronunciation": "キャッシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "invalidation",
+    "pronunciation": "インバリデーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "ttl",
+    "pronunciation": "ティーティーエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "orm",
+    "pronunciation": "オーアールエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "odm",
+    "pronunciation": "オーディーエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "crud",
+    "pronunciation": "クラッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "restful",
+    "pronunciation": "レストフル",
+    "accent_type": 1
+  },
+  {
+    "surface": "grpc",
+    "pronunciation": "ジーアールピーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "protobuf",
+    "pronunciation": "プロトバフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "json",
+    "pronunciation": "ジェイソン",
+    "accent_type": 1
+  },
+  {
+    "surface": "xml",
+    "pronunciation": "エックスエムエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "yaml",
+    "pronunciation": "ヤムル",
+    "accent_type": 1
+  },
+  {
+    "surface": "toml",
+    "pronunciation": "トムル",
+    "accent_type": 1
+  },
+  {
+    "surface": "csv",
+    "pronunciation": "シーエスブイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "markdown",
+    "pronunciation": "マークダウン",
+    "accent_type": 1
+  },
+  {
+    "surface": "jsx",
+    "pronunciation": "ジェイエスエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tsx",
+    "pronunciation": "ティーエスエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "svg",
+    "pronunciation": "エスブイジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "png",
+    "pronunciation": "ピーエヌジー",
+    "accent_type": 1
+  },
+  {
+    "surface": "jpeg",
+    "pronunciation": "ジェイペグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "webp",
+    "pronunciation": "ウェッピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "avif",
+    "pronunciation": "エイヴィフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "gif",
+    "pronunciation": "ジフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "pdf",
+    "pronunciation": "ピーディーエフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ascii",
+    "pronunciation": "アスキー",
+    "accent_type": 1
+  },
+  {
+    "surface": "unicode",
+    "pronunciation": "ユニコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "utf",
+    "pronunciation": "ユーティーエフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "base64",
+    "pronunciation": "ベースロクジュウヨン",
+    "accent_type": 1
+  },
+  {
+    "surface": "oauth2",
+    "pronunciation": "オーオースツー",
+    "accent_type": 1
+  },
+  {
+    "surface": "saml",
+    "pronunciation": "サムル",
+    "accent_type": 1
+  },
+  {
+    "surface": "sso",
+    "pronunciation": "エスエスオー",
+    "accent_type": 1
+  },
+  {
+    "surface": "mfa",
+    "pronunciation": "エムエフエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "totp",
+    "pronunciation": "ティーオーティーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "rbac",
+    "pronunciation": "アールバック",
+    "accent_type": 1
+  },
+  {
+    "surface": "abac",
+    "pronunciation": "エーバック",
+    "accent_type": 1
+  },
+  {
+    "surface": "cicd",
+    "pronunciation": "シーアイシーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "devops",
+    "pronunciation": "デブオプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "devsecops",
+    "pronunciation": "デブセックオプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "gitops",
+    "pronunciation": "ギットオプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mlops",
+    "pronunciation": "エムエルオプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "observability",
+    "pronunciation": "オブザーバビリティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "telemetry",
+    "pronunciation": "テレメトリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "logging",
+    "pronunciation": "ロギング",
+    "accent_type": 1
+  },
+  {
+    "surface": "tracing",
+    "pronunciation": "トレーシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "alerting",
+    "pronunciation": "アラーティング",
+    "accent_type": 1
+  },
+  {
+    "surface": "monitoring",
+    "pronunciation": "モニタリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "sla",
+    "pronunciation": "エスエルエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "slo",
+    "pronunciation": "エスエルオー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sli",
+    "pronunciation": "エスエルアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "uptime",
+    "pronunciation": "アップタイム",
+    "accent_type": 1
+  },
+  {
+    "surface": "downtime",
+    "pronunciation": "ダウンタイム",
+    "accent_type": 1
+  },
+  {
+    "surface": "failover",
+    "pronunciation": "フェイルオーバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "redundancy",
+    "pronunciation": "リダンダンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "replication",
+    "pronunciation": "レプリケーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "sharding",
+    "pronunciation": "シャーディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "partitioning",
+    "pronunciation": "パーティショニング",
+    "accent_type": 1
+  },
+  {
+    "surface": "indexing",
+    "pronunciation": "インデクシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "cqrs",
+    "pronunciation": "シーキューアールエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "saga",
+    "pronunciation": "サーガ",
+    "accent_type": 1
+  },
+  {
+    "surface": "eventual",
+    "pronunciation": "イベンチュアル",
+    "accent_type": 1
+  },
+  {
+    "surface": "consistency",
+    "pronunciation": "コンシステンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "idempotent",
+    "pronunciation": "アイデンポテント",
+    "accent_type": 1
+  },
+  {
+    "surface": "immutable",
+    "pronunciation": "イミュータブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "mutable",
+    "pronunciation": "ミュータブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "stateless",
+    "pronunciation": "ステートレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "stateful",
+    "pronunciation": "ステートフル",
+    "accent_type": 1
+  },
+  {
+    "surface": "composable",
+    "pronunciation": "コンポーザブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "declarative",
+    "pronunciation": "デクラレイティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "imperative",
+    "pronunciation": "インペラティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "functional",
+    "pronunciation": "ファンクショナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "reactive",
+    "pronunciation": "リアクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "observable",
+    "pronunciation": "オブザーバブル",
+    "accent_type": 1
+  },
+  {
+    "surface": "subscriber",
+    "pronunciation": "サブスクライバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "emitter",
+    "pronunciation": "エミッター",
+    "accent_type": 1
+  },
+  {
+    "surface": "listener",
+    "pronunciation": "リスナー",
+    "accent_type": 1
+  },
+  {
+    "surface": "interceptor",
+    "pronunciation": "インターセプター",
+    "accent_type": 1
+  },
+  {
+    "surface": "resolver",
+    "pronunciation": "リゾルバー",
+    "accent_type": 1
+  },
+  {
+    "surface": "serializer",
+    "pronunciation": "シリアライザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "deserializer",
+    "pronunciation": "デシリアライザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "validator",
+    "pronunciation": "バリデーター",
+    "accent_type": 1
+  },
+  {
+    "surface": "sanitizer",
+    "pronunciation": "サニタイザー",
+    "accent_type": 1
+  },
+  {
+    "surface": "formatter",
+    "pronunciation": "フォーマッター",
+    "accent_type": 1
+  },
+  {
+    "surface": "parser",
+    "pronunciation": "パーサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "lexer",
+    "pronunciation": "レキサー",
+    "accent_type": 1
+  },
+  {
+    "surface": "compiler",
+    "pronunciation": "コンパイラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "interpreter",
+    "pronunciation": "インタープリター",
+    "accent_type": 1
+  },
+  {
+    "surface": "bytecode",
+    "pronunciation": "バイトコード",
+    "accent_type": 1
+  },
+  {
+    "surface": "jit",
+    "pronunciation": "ジット",
+    "accent_type": 1
+  },
+  {
+    "surface": "aot",
+    "pronunciation": "エーオーティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "gc",
+    "pronunciation": "ジーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "garbage",
+    "pronunciation": "ガーベージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "callstack",
+    "pronunciation": "コールスタック",
+    "accent_type": 1
+  },
+  {
+    "surface": "stacktrace",
+    "pronunciation": "スタックトレース",
+    "accent_type": 1
+  },
+  {
+    "surface": "segfault",
+    "pronunciation": "セグフォルト",
+    "accent_type": 1
+  },
+  {
+    "surface": "coredump",
+    "pronunciation": "コアダンプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "stdout",
+    "pronunciation": "スタンダードアウト",
+    "accent_type": 1
+  },
+  {
+    "surface": "stderr",
+    "pronunciation": "スタンダードエラー",
+    "accent_type": 1
+  },
+  {
+    "surface": "stdin",
+    "pronunciation": "スタンダードイン",
+    "accent_type": 1
+  },
+  {
+    "surface": "chmod",
+    "pronunciation": "シーエイチモッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "chown",
+    "pronunciation": "シーエイチオウン",
+    "accent_type": 1
+  },
+  {
+    "surface": "sudo",
+    "pronunciation": "スードゥー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ssh",
+    "pronunciation": "エスエスエイチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "scp",
+    "pronunciation": "エスシーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ftp",
+    "pronunciation": "エフティーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sftp",
+    "pronunciation": "エスエフティーピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "rsync",
+    "pronunciation": "アールシンク",
+    "accent_type": 1
+  },
+  {
+    "surface": "wget",
+    "pronunciation": "ダブリューゲット",
+    "accent_type": 1
+  },
+  {
+    "surface": "curl",
+    "pronunciation": "カール",
+    "accent_type": 1
+  },
+  {
+    "surface": "sed",
+    "pronunciation": "セド",
+    "accent_type": 1
+  },
+  {
+    "surface": "awk",
+    "pronunciation": "オーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "grep",
+    "pronunciation": "グレップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "xargs",
+    "pronunciation": "エックスアーグス",
+    "accent_type": 1
+  },
+  {
+    "surface": "crontab",
+    "pronunciation": "クロンタブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "systemd",
+    "pronunciation": "システムディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dockerfile",
+    "pronunciation": "ドッカーファイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "compose",
+    "pronunciation": "コンポーズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "swarm",
+    "pronunciation": "スウォーム",
+    "accent_type": 1
+  },
+  {
+    "surface": "istio",
+    "pronunciation": "イスティオ",
+    "accent_type": 1
+  },
+  {
+    "surface": "envoy",
+    "pronunciation": "エンボイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "linkerd",
+    "pronunciation": "リンカード",
+    "accent_type": 1
+  },
+  {
+    "surface": "etcd",
+    "pronunciation": "イーティーシーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "consul",
+    "pronunciation": "コンスル",
+    "accent_type": 1
+  },
+  {
+    "surface": "zookeeper",
+    "pronunciation": "ズーキーパー",
+    "accent_type": 1
+  },
+  {
+    "surface": "airflow",
+    "pronunciation": "エアフロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "dbt",
+    "pronunciation": "ディービーティー",
+    "accent_type": 1
+  },
+  {
+    "surface": "snowflake",
+    "pronunciation": "スノーフレーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "bigquery",
+    "pronunciation": "ビッグクエリ",
+    "accent_type": 1
+  },
+  {
+    "surface": "redshift",
+    "pronunciation": "レッドシフト",
+    "accent_type": 1
+  },
+  {
+    "surface": "athena",
+    "pronunciation": "アテナ",
+    "accent_type": 1
+  },
+  {
+    "surface": "dynamodb",
+    "pronunciation": "ダイナモディービー",
+    "accent_type": 1
+  },
+  {
+    "surface": "cassandra",
+    "pronunciation": "カサンドラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "couchdb",
+    "pronunciation": "カウチディービー",
+    "accent_type": 1
+  },
+  {
+    "surface": "neo4j",
+    "pronunciation": "ネオフォージェイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "prisma",
+    "pronunciation": "プリズマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sequelize",
+    "pronunciation": "シークライズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "typeorm",
+    "pronunciation": "タイプオーアールエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "drizzle",
+    "pronunciation": "ドリズル",
+    "accent_type": 1
+  },
+  {
+    "surface": "knex",
+    "pronunciation": "ネックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mongoose",
+    "pronunciation": "マングース",
+    "accent_type": 1
+  },
+  {
+    "surface": "sqlalchemy",
+    "pronunciation": "エスキューエルアルケミー",
+    "accent_type": 1
+  },
+  {
+    "surface": "django",
+    "pronunciation": "ジャンゴ",
+    "accent_type": 1
+  },
+  {
+    "surface": "flask",
+    "pronunciation": "フラスク",
+    "accent_type": 1
+  },
+  {
+    "surface": "fastapi",
+    "pronunciation": "ファストエーピーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "express",
+    "pronunciation": "エクスプレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "nestjs",
+    "pronunciation": "ネストジェイエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "spring",
+    "pronunciation": "スプリング",
+    "accent_type": 1
+  },
+  {
+    "surface": "laravel",
+    "pronunciation": "ララベル",
+    "accent_type": 1
+  },
+  {
+    "surface": "rails",
+    "pronunciation": "レイルズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sinatra",
+    "pronunciation": "シナトラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "gin",
+    "pronunciation": "ジン",
+    "accent_type": 1
+  },
+  {
+    "surface": "actix",
+    "pronunciation": "アクティックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "axum",
+    "pronunciation": "アクサム",
+    "accent_type": 1
+  },
+  {
+    "surface": "deno",
+    "pronunciation": "ディーノ",
+    "accent_type": 1
+  },
+  {
+    "surface": "bun",
+    "pronunciation": "バン",
+    "accent_type": 1
+  },
+  {
+    "surface": "esbuild",
+    "pronunciation": "イーエスビルド",
+    "accent_type": 1
+  },
+  {
+    "surface": "rollup",
+    "pronunciation": "ロールアップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "parcel",
+    "pronunciation": "パーセル",
+    "accent_type": 1
+  },
+  {
+    "surface": "swc",
+    "pronunciation": "エスダブリューシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "turbopack",
+    "pronunciation": "ターボパック",
+    "accent_type": 1
+  },
+  {
+    "surface": "storybook",
+    "pronunciation": "ストーリーブック",
+    "accent_type": 1
+  },
+  {
+    "surface": "chromatic",
+    "pronunciation": "クロマティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "playwright",
+    "pronunciation": "プレイライト",
+    "accent_type": 1
+  },
+  {
+    "surface": "cypress",
+    "pronunciation": "サイプレス",
+    "accent_type": 1
+  },
+  {
+    "surface": "selenium",
+    "pronunciation": "セレニウム",
+    "accent_type": 1
+  },
+  {
+    "surface": "puppeteer",
+    "pronunciation": "パペティア",
+    "accent_type": 1
+  },
+  {
+    "surface": "jest",
+    "pronunciation": "ジェスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "vitest",
+    "pronunciation": "ヴィテスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "mocha",
+    "pronunciation": "モカ",
+    "accent_type": 1
+  },
+  {
+    "surface": "pytest",
+    "pronunciation": "パイテスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "junit",
+    "pronunciation": "ジェイユニット",
+    "accent_type": 1
+  },
+  {
+    "surface": "rspec",
+    "pronunciation": "アールスペック",
+    "accent_type": 1
+  },
+  {
+    "surface": "zustand",
+    "pronunciation": "ズスタンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "redux",
+    "pronunciation": "リダックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mobx",
+    "pronunciation": "モブエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "pinia",
+    "pronunciation": "ピニア",
+    "accent_type": 1
+  },
+  {
+    "surface": "vuex",
+    "pronunciation": "ビューエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "jotai",
+    "pronunciation": "ジョータイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "recoil",
+    "pronunciation": "リコイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "tanstack",
+    "pronunciation": "タンスタック",
+    "accent_type": 1
+  },
+  {
+    "surface": "zod",
+    "pronunciation": "ゾッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "yup",
+    "pronunciation": "ヤップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ajv",
+    "pronunciation": "エージェイブイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "lodash",
+    "pronunciation": "ロダッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "underscore",
+    "pronunciation": "アンダースコア",
+    "accent_type": 1
+  },
+  {
+    "surface": "ramda",
+    "pronunciation": "ラムダ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rxjs",
+    "pronunciation": "アールエックスジェイエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "socket.io",
+    "pronunciation": "ソケットアイオー",
+    "accent_type": 1
+  },
+  {
+    "surface": "trpc",
+    "pronunciation": "ティーアールピーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "apollo",
+    "pronunciation": "アポロ",
+    "accent_type": 1
+  },
+  {
+    "surface": "relay",
+    "pronunciation": "リレー",
+    "accent_type": 1
+  },
+  {
+    "surface": "urql",
+    "pronunciation": "アーキューエル",
+    "accent_type": 1
+  },
+  {
+    "surface": "swr",
+    "pronunciation": "エスダブリューアール",
+    "accent_type": 1
+  },
+  {
+    "surface": "nextauth",
+    "pronunciation": "ネクストオース",
+    "accent_type": 1
+  },
+  {
+    "surface": "auth0",
+    "pronunciation": "オースゼロ",
+    "accent_type": 1
+  },
+  {
+    "surface": "clerk",
+    "pronunciation": "クラーク",
+    "accent_type": 1
+  },
+  {
+    "surface": "lucia",
+    "pronunciation": "ルシア",
+    "accent_type": 1
+  },
+  {
+    "surface": "passkey",
+    "pronunciation": "パスキー",
+    "accent_type": 1
+  },
+  {
+    "surface": "webauthn",
+    "pronunciation": "ウェブオースン",
+    "accent_type": 1
+  },
+  {
+    "surface": "fido",
+    "pronunciation": "ファイド",
+    "accent_type": 1
+  },
+  {
+    "surface": "biometric",
+    "pronunciation": "バイオメトリック",
+    "accent_type": 1
+  },
+  {
+    "surface": "captcha",
+    "pronunciation": "キャプチャ",
+    "accent_type": 1
+  },
+  {
+    "surface": "recaptcha",
+    "pronunciation": "リキャプチャ",
+    "accent_type": 1
+  },
+  {
+    "surface": "turnstile",
+    "pronunciation": "ターンスタイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "opensearch",
+    "pronunciation": "オープンサーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "meilisearch",
+    "pronunciation": "メイリサーチ",
+    "accent_type": 1
+  },
+  {
+    "surface": "algolia",
+    "pronunciation": "アルゴリア",
+    "accent_type": 1
+  },
+  {
+    "surface": "pinecone",
+    "pronunciation": "パインコーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "weaviate",
+    "pronunciation": "ウィービエイト",
+    "accent_type": 1
+  },
+  {
+    "surface": "qdrant",
+    "pronunciation": "キュードラント",
+    "accent_type": 1
+  },
+  {
+    "surface": "chromadb",
+    "pronunciation": "クロマディービー",
+    "accent_type": 1
+  },
+  {
+    "surface": "langchain",
+    "pronunciation": "ラングチェーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "llamaindex",
+    "pronunciation": "ラマインデックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "huggingface",
+    "pronunciation": "ハギングフェイス",
+    "accent_type": 1
+  },
+  {
+    "surface": "ollama",
+    "pronunciation": "オラマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rag",
+    "pronunciation": "ラグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "finetuning",
+    "pronunciation": "ファインチューニング",
+    "accent_type": 1
+  },
+  {
+    "surface": "lora",
+    "pronunciation": "ローラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "qlora",
+    "pronunciation": "キューローラ",
+    "accent_type": 1
+  },
+  {
+    "surface": "quantization",
+    "pronunciation": "クオンタイゼーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "distillation",
+    "pronunciation": "ディスティレーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "hallucination",
+    "pronunciation": "ハルシネーション",
+    "accent_type": 1
+  },
+  {
+    "surface": "grounding",
+    "pronunciation": "グラウンディング",
+    "accent_type": 1
+  },
+  {
+    "surface": "multimodal",
+    "pronunciation": "マルチモーダル",
+    "accent_type": 1
+  },
+  {
+    "surface": "chatbot",
+    "pronunciation": "チャットボット",
+    "accent_type": 1
+  },
+  {
+    "surface": "agentic",
+    "pronunciation": "エージェンティック",
+    "accent_type": 1
+  },
+  {
+    "surface": "swiftui",
+    "pronunciation": "スウィフトユーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "jetpack",
+    "pronunciation": "ジェットパック",
+    "accent_type": 1
+  },
+  {
+    "surface": "widgetkit",
+    "pronunciation": "ウィジェットキット",
+    "accent_type": 1
+  },
+  {
+    "surface": "storekit",
+    "pronunciation": "ストアキット",
+    "accent_type": 1
+  },
+  {
+    "surface": "coredata",
+    "pronunciation": "コアデータ",
+    "accent_type": 1
+  },
+  {
+    "surface": "realm",
+    "pronunciation": "レルム",
+    "accent_type": 1
+  },
+  {
+    "surface": "asyncstorage",
+    "pronunciation": "エイシンクストレージ",
+    "accent_type": 1
+  },
+  {
+    "surface": "riverpod",
+    "pronunciation": "リバーポッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "bloc",
+    "pronunciation": "ブロック",
+    "accent_type": 1
+  },
+  {
+    "surface": "getx",
+    "pronunciation": "ゲットエックス",
+    "accent_type": 1
+  },
+  {
+    "surface": "mvvm",
+    "pronunciation": "エムブイブイエム",
+    "accent_type": 1
+  },
+  {
+    "surface": "mvc",
+    "pronunciation": "エムブイシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "mvp",
+    "pronunciation": "エムブイピー",
+    "accent_type": 1
+  },
+  {
+    "surface": "solid",
+    "pronunciation": "ソリッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "kiss",
+    "pronunciation": "キス",
+    "accent_type": 1
+  },
+  {
+    "surface": "dry",
+    "pronunciation": "ドライ",
+    "accent_type": 1
+  },
+  {
+    "surface": "yagni",
+    "pronunciation": "ヤグニ",
+    "accent_type": 1
+  },
+  {
+    "surface": "agile",
+    "pronunciation": "アジャイル",
+    "accent_type": 1
+  },
+  {
+    "surface": "scrum",
+    "pronunciation": "スクラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "kanban",
+    "pronunciation": "カンバン",
+    "accent_type": 1
+  },
+  {
+    "surface": "sprint",
+    "pronunciation": "スプリント",
+    "accent_type": 1
+  },
+  {
+    "surface": "backlog",
+    "pronunciation": "バックログ",
+    "accent_type": 1
+  },
+  {
+    "surface": "standup",
+    "pronunciation": "スタンドアップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "retrospective",
+    "pronunciation": "レトロスペクティブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "velocity",
+    "pronunciation": "ベロシティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "burndown",
+    "pronunciation": "バーンダウン",
+    "accent_type": 1
+  },
+  {
+    "surface": "epic",
+    "pronunciation": "エピック",
+    "accent_type": 1
+  },
+  {
+    "surface": "user story",
+    "pronunciation": "ユーザーストーリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "acceptance",
+    "pronunciation": "アクセプタンス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tdd",
+    "pronunciation": "ティーディーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "bdd",
+    "pronunciation": "ビーディーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ddd",
+    "pronunciation": "ディーディーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "hexagonal",
+    "pronunciation": "ヘキサゴナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "onion",
+    "pronunciation": "オニオン",
+    "accent_type": 1
+  },
+  {
+    "surface": "clean architecture",
+    "pronunciation": "クリーンアーキテクチャ",
+    "accent_type": 1
+  },
+  {
+    "surface": "monorepo",
+    "pronunciation": "モノレポ",
+    "accent_type": 1
+  },
+  {
+    "surface": "polyrepo",
+    "pronunciation": "ポリレポ",
+    "accent_type": 1
+  },
+  {
+    "surface": "trunk",
+    "pronunciation": "トランク",
+    "accent_type": 1
+  },
+  {
+    "surface": "feature flag",
+    "pronunciation": "フィーチャーフラグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "experiment",
+    "pronunciation": "エクスペリメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "ab test",
+    "pronunciation": "エービーテスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "analytics",
+    "pronunciation": "アナリティクス",
+    "accent_type": 1
+  },
+  {
+    "surface": "tracking",
+    "pronunciation": "トラッキング",
+    "accent_type": 1
+  },
+  {
+    "surface": "funnel",
+    "pronunciation": "ファネル",
+    "accent_type": 1
+  },
+  {
+    "surface": "conversion",
+    "pronunciation": "コンバージョン",
+    "accent_type": 1
+  },
+  {
+    "surface": "retention",
+    "pronunciation": "リテンション",
+    "accent_type": 1
+  },
+  {
+    "surface": "churn",
+    "pronunciation": "チャーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "cohort",
+    "pronunciation": "コーホート",
+    "accent_type": 1
+  },
+  {
+    "surface": "segment",
+    "pronunciation": "セグメント",
+    "accent_type": 1
+  },
+  {
+    "surface": "amplitude",
+    "pronunciation": "アンプリチュード",
+    "accent_type": 1
+  },
+  {
+    "surface": "mixpanel",
+    "pronunciation": "ミックスパネル",
+    "accent_type": 1
+  },
+  {
+    "surface": "posthog",
+    "pronunciation": "ポストホグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "hotjar",
+    "pronunciation": "ホットジャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "seo",
+    "pronunciation": "エスイーオー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sitemap",
+    "pronunciation": "サイトマップ",
+    "accent_type": 1
+  },
+  {
+    "surface": "robots",
+    "pronunciation": "ロボッツ",
+    "accent_type": 1
+  },
+  {
+    "surface": "canonical",
+    "pronunciation": "カノニカル",
+    "accent_type": 1
+  },
+  {
+    "surface": "opengraph",
+    "pronunciation": "オープングラフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "metatag",
+    "pronunciation": "メタタグ",
+    "accent_type": 1
+  },
+  {
+    "surface": "breadcrumb",
+    "pronunciation": "ブレッドクラム",
+    "accent_type": 1
+  },
+  {
+    "surface": "a11y",
+    "pronunciation": "アクセシビリティ",
+    "accent_type": 1
+  },
+  {
+    "surface": "i18n",
+    "pronunciation": "アイエイティーンエヌ",
+    "accent_type": 1
+  },
+  {
+    "surface": "l10n",
+    "pronunciation": "エルテンエヌ",
+    "accent_type": 1
+  },
+  {
+    "surface": "locale",
+    "pronunciation": "ロケール",
+    "accent_type": 1
+  },
+  {
+    "surface": "timezone",
+    "pronunciation": "タイムゾーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "iso",
+    "pronunciation": "アイエスオー",
+    "accent_type": 1
+  },
+  {
+    "surface": "rfc",
+    "pronunciation": "アールエフシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "w3c",
+    "pronunciation": "ダブリュースリーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ecma",
+    "pronunciation": "エクマ",
+    "accent_type": 1
+  },
+  {
+    "surface": "ietf",
+    "pronunciation": "アイイーティーエフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "rsa",
+    "pronunciation": "アールエスエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "aes",
+    "pronunciation": "エーイーエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "sha",
+    "pronunciation": "シャ",
+    "accent_type": 1
+  },
+  {
+    "surface": "md5",
+    "pronunciation": "エムディーファイブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "hmac",
+    "pronunciation": "エイチマック",
+    "accent_type": 1
+  },
+  {
+    "surface": "pkcs",
+    "pronunciation": "ピーケーシーエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "pem",
+    "pronunciation": "ペム",
+    "accent_type": 1
+  },
+  {
+    "surface": "x509",
+    "pronunciation": "エックスゴーマルキュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ecdsa",
+    "pronunciation": "イーシーディーエスエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "ed25519",
+    "pronunciation": "イーディーニマンゴセンゴヒャクジュウキュー",
+    "accent_type": 1
+  },
+  {
+    "surface": "idempotency",
+    "pronunciation": "アイデンポテンシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "exponential backoff",
+    "pronunciation": "エクスポネンシャルバックオフ",
+    "accent_type": 1
+  },
+  {
+    "surface": "circuit breaker",
+    "pronunciation": "サーキットブレーカー",
+    "accent_type": 1
+  },
+  {
+    "surface": "bulkhead",
+    "pronunciation": "バルクヘッド",
+    "accent_type": 1
+  },
+  {
+    "surface": "rate limiting",
+    "pronunciation": "レートリミティング",
+    "accent_type": 1
+  },
+  {
+    "surface": "backpressure",
+    "pronunciation": "バックプレッシャー",
+    "accent_type": 1
+  },
+  {
+    "surface": "graceful",
+    "pronunciation": "グレースフル",
+    "accent_type": 1
+  },
+  {
+    "surface": "healthcheck",
+    "pronunciation": "ヘルスチェック",
+    "accent_type": 1
+  },
+  {
+    "surface": "heartbeat",
+    "pronunciation": "ハートビート",
+    "accent_type": 1
+  },
+  {
+    "surface": "keepalive",
+    "pronunciation": "キープアライブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "handshake",
+    "pronunciation": "ハンドシェイク",
+    "accent_type": 1
+  },
+  {
+    "surface": "mtls",
+    "pronunciation": "エムティーエルエス",
+    "accent_type": 1
+  },
+  {
+    "surface": "zero trust",
+    "pronunciation": "ゼロトラスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "least privilege",
+    "pronunciation": "リーストプリビレッジ",
+    "accent_type": 1
+  },
+  {
+    "surface": "defense in depth",
+    "pronunciation": "ディフェンスインデプス",
+    "accent_type": 1
+  },
+  {
+    "surface": "owasp",
+    "pronunciation": "オワスプ",
+    "accent_type": 1
+  },
+  {
+    "surface": "cve",
+    "pronunciation": "シーブイイー",
+    "accent_type": 1
+  },
+  {
+    "surface": "sbom",
+    "pronunciation": "エスボム",
+    "accent_type": 1
+  },
+  {
+    "surface": "sast",
+    "pronunciation": "サスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "dast",
+    "pronunciation": "ダスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "sca",
+    "pronunciation": "エスシーエー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pentest",
+    "pronunciation": "ペンテスト",
+    "accent_type": 1
+  },
+  {
+    "surface": "fuzzing",
+    "pronunciation": "ファジング",
+    "accent_type": 1
+  },
+  {
+    "surface": "iac",
+    "pronunciation": "アイエーシー",
+    "accent_type": 1
+  },
+  {
+    "surface": "pulumi",
+    "pronunciation": "プルミ",
+    "accent_type": 1
+  },
+  {
+    "surface": "crossplane",
+    "pronunciation": "クロスプレーン",
+    "accent_type": 1
+  },
+  {
+    "surface": "argocd",
+    "pronunciation": "アルゴシーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "fluxcd",
+    "pronunciation": "フラックスシーディー",
+    "accent_type": 1
+  },
+  {
+    "surface": "tekton",
+    "pronunciation": "テクトン",
+    "accent_type": 1
+  },
+  {
+    "surface": "github actions",
+    "pronunciation": "ギットハブアクションズ",
+    "accent_type": 1
+  },
+  {
+    "surface": "circleci",
+    "pronunciation": "サークルシーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "travisci",
+    "pronunciation": "トラビスシーアイ",
+    "accent_type": 1
+  },
+  {
+    "surface": "sonarqube",
+    "pronunciation": "ソナーキューブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "codecov",
+    "pronunciation": "コードカブ",
+    "accent_type": 1
+  },
+  {
+    "surface": "dependabot",
+    "pronunciation": "ディペンダボット",
+    "accent_type": 1
+  },
+  {
+    "surface": "renovate",
+    "pronunciation": "レノベート",
+    "accent_type": 1
+  },
+  {
+    "surface": "husky",
+    "pronunciation": "ハスキー",
+    "accent_type": 1
+  },
+  {
+    "surface": "commitlint",
+    "pronunciation": "コミットリント",
+    "accent_type": 1
+  },
+  {
+    "surface": "conventional",
+    "pronunciation": "コンベンショナル",
+    "accent_type": 1
+  },
+  {
+    "surface": "changeset",
+    "pronunciation": "チェンジセット",
+    "accent_type": 1
+  },
+  {
+    "surface": "stale",
+    "pronunciation": "ステール",
+    "accent_type": 1
+  },
+  {
+    "surface": "orphan",
+    "pronunciation": "オーファン",
+    "accent_type": 1
+  },
+  {
+    "surface": "squash",
+    "pronunciation": "スカッシュ",
+    "accent_type": 1
+  },
+  {
+    "surface": "amend",
+    "pronunciation": "アメンド",
+    "accent_type": 1
+  },
+  {
+    "surface": "origin",
+    "pronunciation": "オリジン",
+    "accent_type": 1
+  },
+  {
+    "surface": "worktree",
+    "pronunciation": "ワークツリー",
+    "accent_type": 1
+  },
+  {
+    "surface": "submodule",
+    "pronunciation": "サブモジュール",
+    "accent_type": 1
+  },
+  {
+    "surface": "sparse",
+    "pronunciation": "スパース",
+    "accent_type": 1
+  },
+  {
+    "surface": "shallow",
+    "pronunciation": "シャロー",
+    "accent_type": 1
+  },
+  {
+    "surface": "detached",
+    "pronunciation": "ディタッチド",
+    "accent_type": 1
+  },
+  {
+    "surface": "rebasing",
+    "pronunciation": "リベーシング",
+    "accent_type": 1
+  },
+  {
+    "surface": "merging",
+    "pronunciation": "マージング",
+    "accent_type": 1
+  },
+  {
+    "surface": "conflict",
+    "pronunciation": "コンフリクト",
+    "accent_type": 1
+  },
+  {
+    "surface": "fast-forward",
+    "pronunciation": "ファストフォワード",
+    "accent_type": 1
+  }
+]
